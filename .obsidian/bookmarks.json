@@ -1,0 +1,120 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1747641838307,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1747641838307,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1747641838307,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1747641852618,
+                  "path": "World/Cosmology/Paradox of the Fallen.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1747641852618,
+                  "path": "World/Cosmology/Life's Defiance.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1747641852618,
+                  "path": "World/Cosmology/Journey of the Ascended.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1747641852618,
+                  "path": "World/Cosmology/Incursion Against One's Home.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1747641852618,
+                  "path": "World/Cosmology/Defending One's Home.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1747641852618,
+                  "path": "World/Cosmology/Creation of Planetary Celestial.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1747641852618,
+                  "path": "World/Cosmology/Ascending One's Soul.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1747641852618,
+                  "path": "World/Cosmology/The Cycle of Mortal Souls.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "folder",
+                  "ctime": 1747642158395,
+                  "path": "World/Cosmology"
+                }
+              ],
+              "title": "Cosmology"
+            },
+            {
+              "type": "group",
+              "ctime": 1747641838307,
+              "items": [],
+              "title": "Entities"
+            },
+            {
+              "type": "group",
+              "ctime": 1747641838307,
+              "items": [],
+              "title": "Essence"
+            },
+            {
+              "type": "group",
+              "ctime": 1747641838307,
+              "items": [],
+              "title": "Item"
+            },
+            {
+              "type": "group",
+              "ctime": 1747641838307,
+              "items": [],
+              "title": "Other"
+            },
+            {
+              "type": "group",
+              "ctime": 1747641838307,
+              "items": [],
+              "title": "System"
+            },
+            {
+              "type": "group",
+              "ctime": 1747641838307,
+              "items": [],
+              "title": "Vessel"
+            },
+            {
+              "type": "file",
+              "ctime": 1747641838307,
+              "path": "World/World.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "\\\\World"
+        }
+      ],
+      "title": "Index"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "be5f1cecd8f3950e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f1cde536bb7b4fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a57b867089c8be16",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5eaf570c45b35572",
+    "type": "split",
+    "children": [
+      {
+        "id": "63b38eaf0ef25ce3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14cb23e9bf1a7569",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dc87adba6cda1171",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1c27e851d671fd9e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd1ecfedc34338d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7202cb079b0d5844",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b7a71a7e583a959",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "8b194d9ba8ff7bf0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "e33c4b878870fda8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "33632a3c15d5f26f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "f4cf679ddfbeaa88",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "custom-sort:Toggle custom sorting": false
+    }
+  },
+  "active": "a57b867089c8be16",
+  "lastOpenFiles": [
+    "World/Cosmology/Cosmology.md",
+    "World/Entities/Entities.md",
+    "World/World.md",
+    "World/System/Magic/Spiritual Technique/Spiritual Technique.md",
+    "World/System/Law/Law.md",
+    "World/System/Law/Convenant.md",
+    "World/System/Law/Domain.md",
+    "World/System/Law/Contract.md",
+    "World/Vessel/Natural Vessel.md",
+    "World/System/Magic/Magic.md",
+    "World/System/Magic/Class/Class.md",
+    "World/Vessel/Vessel.md",
+    "World/System/Magic/Spiritual Technique/Conjuration.md",
+    "World/System/System.md",
+    "World/Essence/Essence.md",
+    "World/Item/Artifact",
+    "World/Item/Core",
+    "World/Other/Untitled",
+    "World/System/Magic/Spiritual Technique/Shaping.md",
+    "World/System/Magic/Spiritual Technique/Transmutation.md",
+    "World/System/Magic/Spiritual Technique/Projection.md",
+    "World/System/Magic/Spiritual Technique/Animate.md",
+    "World/System/Magic/Spiritual Technique/Restoration.md",
+    "World/System/Magic/Spiritual Technique/Manipulation.md",
+    "World/System/Magic/Spiritual Technique/Enhancement.md",
+    "World/System/Magic/Spiritual Technique/Extraction.md",
+    "World/System/Magic/Spiritual Technique/Infusion.md",
+    "World/System/Magic/Spiritual Technique/(Index) Spiritual Technique.md",
+    "World/System/Magic/Class/(Index) Class System.md",
+    "Reference Note/wildermyth_world_map5814539681109434024.webp",
+    "Reference Note/7xy582pou3y91.webp",
+    "Reference Note/m8i7qerivss91.png",
+    "Reference Note/20980e21c1726ca04f49dfb3ae581875.gif",
+    "Reference Note/iV4G7ER_Sc6WI1q3lh0nDA.webp",
+    "Reference Note/DYNASTY-WARRIORS-8-Empires_20150222142028.jpg",
+    "Reference Note/maxresdefault.jpg",
+    "Reference Note/700px-WoT-Continent.jpg",
+    "World/System/Magic/Limitation",
+    "World/System/Magic/Proficiency",
+    "World/System/Law",
+    "World/System/Magic/Spiritual Technique",
+    "World/Entities/Titles",
+    "World/Entities/Beings",
+    "Other",
+    "Untitled.canvas"
+  ]
+}

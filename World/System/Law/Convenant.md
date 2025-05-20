@@ -1,0 +1,4 @@
+
+### Overview  
+---  
+The most common application of law occurs when an individual applies it to oneself, a practice referred to as a covenant. When employing law for personal benefit, its effectiveness is significantly influenced by the presence of a trade-off. The greater the trade-off, the more potent the resulting effect will be. Making this trade-off is easiest when the target is oneself, and one has a clear understanding of the limitations that can be imposed.
