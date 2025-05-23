@@ -6,15 +6,7 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "[\"tags\": \"parent\"]",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
@@ -25,6 +17,6 @@
   "repelStrength": 7.39583333333333,
   "linkStrength": 0.78125,
   "linkDistance": 121,
-  "scale": 0.713275462622443,
+  "scale": 0.18462326225858164,
   "close": false
 }

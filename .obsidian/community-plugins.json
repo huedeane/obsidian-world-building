@@ -1,8 +1,17 @@
 [
   "obsidian-style-settings",
   "settings-profiles",
-  "file-order",
   "plugins-annotations",
   "custom-sort",
-  "folder-notes"
+  "folder-notes",
+  "obsidian-git",
+  "templater-obsidian",
+  "calendar",
+  "homepage",
+  "tag-wrangler",
+  "obsidian-icon-folder",
+  "obsidian-meta-bind-plugin",
+  "vscode-editor",
+  "cmdr",
+  "quickadd"
 ]
