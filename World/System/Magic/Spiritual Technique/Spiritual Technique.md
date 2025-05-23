@@ -13,7 +13,6 @@ sorting-spec: |
 tags:
   - parent
 ---
-
 ### Overview  
 ---  
 Spiritual techniques encompass various ways an individuals may manipulate their spiritual essence. The strength of one's will determines how easily they can control their essence. Overusing taxes one's spiritual essence, often leading to burnout. Despite essence replenishing over time, excessive use often results in permanent consequences, contributing to the relatively shorter lives of those practicing these techniques. Critical moments expedite one's development, as the strongest will emerges during such pivotal times. Those who dare to fully maximize their potential enter the arena, engaging in constant life-and-death matches.  

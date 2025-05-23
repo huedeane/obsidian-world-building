@@ -1,11 +1,9 @@
 ### Overview  
 ___  
-  
-A system of power defines the rules and mechanisms by which individuals in a particular setting harness and utilize their abilities.  
+  A system of power defines the rules and mechanisms by which individuals in a particular setting harness and utilize their abilities.  
   
 ### Magic Fundamental  
 ---  
-  
 $15r :  
 The ability for an individual to utilize their soul to harness essence to perform magical feats.  
   
@@ -21,7 +19,6 @@ While the potential of magic is immense, its practice and effectiveness are ofte
   
 ### Magic Doctrine  
 ---
-
 [[Ethics of Magic]]
 [[Archetype of Mage]]
 [[Culture of Magic]]

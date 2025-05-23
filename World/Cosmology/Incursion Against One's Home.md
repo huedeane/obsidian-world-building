@@ -1,4 +1,3 @@
-
 ### Overview
 ---
 Demigods cannot attack celestial entities directly, lest they incur the wrath of the celestial as a whole. Instead, they form pacts with inhabitants of the world to undermine the planet from within. Some of these beings become direct apostles of the demigod, entrusted with the grand purpose of establishing a Nest.  

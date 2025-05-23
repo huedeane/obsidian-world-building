@@ -13,7 +13,6 @@ A comprehensive overview of the spell, detailing the practical usage its various
 - __Augmentation:__ General improvements that can be made to a specific attribute of a spell.  
 - __Remarks:__ Additional notes that cover aspects such as drawbacks, unique conditions, effectiveness, and alternative uses of the spell, along with relevant observations.  
 - __History:__ The origins of a spell allow one to understand its purpose, evolutionary roots, and intended solutions. There may be theory on how to bolster the spell effectiveness as well as the ethical considerations related to its use or development. Some spells even include the biography of their creator; understanding their upbringing provides insights into how to effectively invoke the spell  
-
 - __Variant:__ Child spells that derive from this, but are not fundamentally different enough to be considered separate spells, are often popularized by the individuals who use them.  
   
 ### Attribute:  

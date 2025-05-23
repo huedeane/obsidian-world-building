@@ -4,11 +4,9 @@ Due to the limitations of lifespan, proficiency level represents the most effici
   
 Such exceptions exist in this system when it comes to efficiency. By forgoing tertiary proficiency to instead match both of their specialized proficiencies to the same level, they can operate both specialties at 100% efficiency. However, it is not advisable to pursue this unless one has a specific purpose. Doing so is discouraged because leveling tertiary classes enhances base consistency, and deviating from this approach risks unbalancing oneself.  
   
-  
 ### Spell Improvement  
 ---  
 As one increases the level of their proficiency, the power of their spells scales up to match their understanding. A more profound comprehension of each technique yields diverse results, influencing and altering spells in unique ways.  
-  
   
 $16k :  
 - Increased effiency leads to lower cost to casting spell using conduits  
@@ -45,7 +43,7 @@ $16v :
 - Increase effectiveness of crowd control spell  
   
 $16w :  
-- Increase effectivenss of crowd control spell  
+- Increase effectiveness of crowd control spell  
 - Increase accuracy due to better target tracking  
 - Reduce cast time of automated spells  
 - Increase complexity ceiling of spell  

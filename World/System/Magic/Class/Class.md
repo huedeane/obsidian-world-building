@@ -14,7 +14,6 @@ sorting-spec: |
 tags:
   - parent
 ---
-
 ### Overview  
 ---  
 This class system aims to define distinct categories for individuals based on their abilities and roles within the world. At its core, this classification revolves around one's mastery and aptitude with spiritual techniques, which lend them well to certain roles. While countries may adopt this classification, it should be remembered that it should primarily serve as a guideline for what an individual could excel at if they properly focus on developing their current skillset, rather than categorizing them into roles or categories they can't change. Since the world of magic is vast and filled with thousands of spells, it can be daunting to know where to start. Knowing one's class allows individuals to narrow down the recommended path of which spells to learn.  
@@ -22,7 +21,6 @@ This class system aims to define distinct categories for individuals based on th
 Each individual is assigned a set of primary and secondary proficiencies, forming the essence of their magical identity. An individual selects one main proficiency to focus on as their primary strength. The primary proficiency stands as the central focus—an individual's core strength. They can then choose from several secondary proficiencies to branch out, allowing them narrow down their scope. Although their strength lies in their chosen primary and secondary skills, it doesn't mean they're locked out from focusing on other techniques. They can have multiple tertiary proficiencies as minor, serving as supporting elements to complement and further enhance their overall prowess.  
 ### Base Class  
 ---  
-
 [[Warrior]]
 __Primary__ -> Enhancement  
 __Secondary__ -> Shaping, Animate, Transmutation  
@@ -81,7 +79,6 @@ __Summary:__ Monks, masters of spiritual techniques, bypass defenses by attackin
   
 ### Other Class (TO DO)  
 ---  
-  
 [[Druid]]
 __Primary__ -> Extraction  
 __Secondary__ -> Animate, Restoration, Conjuration  
@@ -120,7 +117,6 @@ __Summary:__ Focuses on casting remote magic to overwhelm opponents from all dir
   
 ### Branches of focus  
 ---  
-  
 In mastering spiritual techniques, specific steps must be taken to maximize the system's potential. Three distinct approaches exist for optimizing one's abilities during the learning process: focusing on class specialization, maintaining balance within your class, or exploring the option of multiclassing. Each approach offers a unique path to mastery, allowing practitioners to tailor their learning experience based on individual preferences and strategic goals.  
   
 __Specialist__  

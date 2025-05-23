@@ -1,6 +1,5 @@
 ### Overview  
 ---  
-  
 Crafted by artificers, artifacts are a more enduring form of essence-imbued items. Due to this, it's easier to verify them for authenticity. Their diverse forms often lead to specialized equipment based on their unique attributes. However, due to their lasting nature, the production of artifacts is a time-consuming and energy-intensive process. They are a less intense version of scrolls in their possession ability, requiring more setup before one can bring out their full potential. Care must be taken in selecting artifacts, given their specialized nature and varying creators, making it challenging to find synergy when matching them together.  
   
 __Cursed artifacts:__ Imbued with possession abilities akin to scrolls, in direct violation of safety guidelines, as they are seen more as extensions of oneself rather than mere manifestations of one's abilities. They possess significantly greater power and potency compared to regular artifacts. However, prolonged uses gradually erodes one's will, rendering them considerably more hazardous. The creation of these artifacts requires an immense amount of spiritual essence, often resulting in the demise of the creator.  

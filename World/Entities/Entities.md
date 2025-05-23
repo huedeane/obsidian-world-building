@@ -15,8 +15,6 @@ sorting-spec: |
 tags:
   - parent
 ---
-
-
 ### Beings  
 ---
 [[Human]]:  
