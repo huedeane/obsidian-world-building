@@ -1,7 +1,6 @@
 [
   "obsidian-style-settings",
   "settings-profiles",
-  "plugins-annotations",
   "custom-sort",
   "folder-notes",
   "obsidian-git",
@@ -13,5 +12,13 @@
   "obsidian-meta-bind-plugin",
   "vscode-editor",
   "cmdr",
-  "quickadd"
+  "quickadd",
+  "obsidian-banners",
+  "obsidian-prozen",
+  "obsidian42-brat",
+  "markdown-table-editor",
+  "dataview",
+  "obsidian-advanced-uri",
+  "obsidian-plugin-update-tracker",
+  "editor-width-slider"
 ]

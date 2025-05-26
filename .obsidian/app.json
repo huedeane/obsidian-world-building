@@ -4,8 +4,10 @@
   "rightToLeft": false,
   "vimMode": false,
   "newFileLocation": "current",
-  "showUnsupportedFiles": false,
+  "showUnsupportedFiles": true,
   "attachmentFolderPath": "./",
   "propertiesInDocument": "visible",
-  "promptDelete": false
+  "promptDelete": false,
+  "tabSize": 2,
+  "readableLineLength": true
 }

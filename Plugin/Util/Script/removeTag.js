@@ -1,5 +1,5 @@
 /**
- * This does something cool
+ * Remove tag from front matter
  */
 function removeTag(content, tag) {
     let startIndex = content.search(tag);

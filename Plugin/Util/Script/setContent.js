@@ -1,5 +1,5 @@
 /**
- * This does something cool
+ * Export content text to new file
  */
 function setContent(tR, content) {
     tR = content
