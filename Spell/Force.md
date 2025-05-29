@@ -1,8 +1,7 @@
 ---
 tags:
   - spell
-status:
-  - done
+status: completed
 spell-cost: Low - High (Depend on force)
 target: Area of Effect
 range: Short - Medium

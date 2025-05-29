@@ -1,3 +1,0 @@
-### Attribute
-___
-N/A

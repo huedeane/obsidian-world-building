@@ -1,8 +1,7 @@
 ---
 tags:
   - spell
-status:
-  - done
+status: completed
 spell-cost: Variable
 target: Area of Effect
 range: Short - Medium

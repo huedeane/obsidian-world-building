@@ -1,16 +1,8 @@
 ---
-sorting-spec: |-
-  De...ription
-  Attribute
-  Prerequisite
-  Augmentation
-  Remarks
-  Synergy
-  Variant
-  History
 tags:
   - Spell
 creation: <% tp.file.creation_date() %>
+status: not-started
 ---
 ### Description
 ---  
@@ -74,14 +66,3 @@ N/A
 ### History
 ___  
 N/A
-
-<%*
-// Remove Sorting Spec Tag
-let content = tR 
-const modifyContent = tp.user.removeTag(content, 'sorting-spec')
-tp.user.setContent(tR, modifyContent)
-
-//Set Spell Name
-//const noteName = await tp.system.prompt("Spell Name");
-//await tp.file.rename(noteName)
-%>

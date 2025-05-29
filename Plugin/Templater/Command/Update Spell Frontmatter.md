@@ -5,9 +5,11 @@ const spellFiles = tp.app.vault.getMarkdownFiles().filter(f => {
 })
 
 //Get json file
-const jsonFilePath = "/Plugin/Util/Data/spell-attribute.json"
+const jsonFilePath = '/Plugin/Util/Data/spell-attribute.json'
 const jsonFile = await app.vault.adapter.read(jsonFilePath);
 const jsonPluginData = JSON.parse(jsonFile)
+
+const ignoreTag = ['tags', 'creation', 'status']
 
 for (const file of spellFiles) {
 	let content = await app.vault.read(file);
@@ -16,13 +18,16 @@ for (const file of spellFiles) {
 		// Clear frontmatter
 	  for (const key in frontmatter) {
 	    if (Object.hasOwnProperty.call(frontmatter, key)) {
-	      delete frontmatter[key];
+		    if (ignoreTag.contains(key))
+			    continue
+			  else
+		      delete frontmatter[key];
 	    }
 	  }
 	  
 	  //Set default tag
 		frontmatter['tags'] = ['spell']
-		frontmatter['status'] = ['done']
+		frontmatter['status'] = 'completed'
 		
 	  //Rebuild spell properties
 		jsonPluginData.forEach((data) => {

@@ -11,14 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
+                "aFile": "Plugin/Bases/.md",
+                "bFile": "Plugin/Bases/.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff:"
             }
           }
         ]
@@ -227,48 +227,102 @@
       "dbfolder:Create a new database table": false
     }
   },
+  "floating": {
+    "id": "101b7fe54d7cbe91",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7c81f4124a306562",
+        "type": "window",
+        "children": [
+          {
+            "id": "0de7ca2b7056d648",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b5cc38b2e421be4d",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/mdelobelle/metadatamenu",
+                    "title": "GitHub - mdelobelle/metadatamenu: For data management enthusiasts : type and manage the metadata of your notes.",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "GitHub - mdelobelle/metadatamenu: For data management enthusiasts : type and manage the metadata of your notes."
+                }
+              },
+              {
+                "id": "b457a8635bbf2849",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://www.youtube.com/watch?v=7bvIAkJf0OE",
+                    "title": "metadatamenu - 015 - field settings and dataview controls - YouTube",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "metadatamenu - 015 - field settings and dataview controls - YouTube"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 2903,
+        "y": -20,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Spell.md",
-    "README.md",
-    "Home.md",
-    "Spell/Spell.md",
-    "asdf.md",
-    "sdf.md",
-    "Story/Story.md",
-    "World/World.md",
-    "Spell/Draft/Arcane Silhouette.md",
-    "Spell/Draft/Dominate Will.md",
+    "Spell/Draft/Arcane Grasp.md",
+    "Spell/Draft/Arcane Lock.md",
     "Spell/Draft/Lock On.md",
-    "Spell/Draft/Firestorm.md",
-    "Spell/Untitled.base",
-    "Spell/Alter Spell.md",
-    "Plugin/Templater/Template/Apply Spell Properties Tag.md",
-    "Plugin/Templater/Template/Spell Template/Spell Template.md",
-    "Plugin/Templater/Template/Spell Template/Description.md",
     "Spell/Arcane Blast.md",
-    "Spell/Alter Spell 1.md",
-    "Spell/Arcane Magnetism.md",
-    "Plugin/Util/Script/setContent.js",
-    "Spell/Arcane Platform.md",
     "Spell/Arcane Thorn.md",
-    "Spell/Arcane Pierce.md",
+    "Plugin/Templater/Template/Spell Template.md",
+    "Plugin/Templater/Command/Update Spell Frontmatter.md",
+    "Plugin/Templater/Command/Create Spell.md",
+    "Plugin/Util/Script/setContent.js",
+    "Plugin/Util/Script/removeTag.js",
     "Plugin/Util/Script/getSpellAttribute.js",
     "Plugin/Util/Data/spell-attribute.json",
     "Plugin/Util/Data/plugin-data.json",
-    "Plugin/Plugin.md",
-    "Plugin/Database/Spell.md",
+    "Spell/Alter Spell.md",
+    "Spell/Draft/aksdjf.md",
+    "Spell/Arcane Pierce.md",
+    "Spell/Copy Object.md",
+    "Spell/Dash.md",
+    "Spell/Arcane Magnetism.md",
+    "Spell/Draft/Subjugation.md",
+    "Spell/Draft/Stir Emotion.md",
+    "Plugin/Templater/Command/test2.md",
+    "Spell/Draft/test psll.md",
+    "Spell/Draft/aklsdjf.md",
+    "Spell/Draft/alksdjf.md",
+    "Spell/Draft/alksdjf 1.md",
+    "Spell/Spell.md",
+    "Spell/Draft/test.md",
+    "Spell/Draft/skldjf.md",
+    "Spell/Draft/askdjfa.md",
+    "Plugin/Templater/Command/ter.md",
+    "Plugin/Templater/Command",
+    "Plugin/Bases/Spell.base",
     "Plugin/Util/Data/plugin-data - Copy.json",
-    "Plugin/Util/Script/removeTag.js",
-    "Spell/Untitled.md",
-    "Plugin/Templater/Template/Spell Template/History.md",
     "test.canvas",
     "World/Setting",
-    "Plugin/Database",
+    "Plugin/Bases",
     "Plugin/Banner/4572611-fantasy-art-field-clouds.jpg",
     "Plugin/Banner/banner.jpg",
     "Plugin/Banner/homepage.png",
-    "Plugin/Database",
     "Reference Note/wildermyth_world_map5814539681109434024.webp",
     "Reference Note/7xy582pou3y91.webp",
     "Reference Note/m8i7qerivss91.png",

@@ -1,8 +1,7 @@
 ---
 tags:
   - spell
-status:
-  - done
+status: completed
 spell-cost: Variable
 target: Self, Single, Area of Effect
 range: Short
