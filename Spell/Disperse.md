@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Variable
+target: Area of Effect
+range: Short - Medium
+cast time: Instant
+cast type: Scattershot
+persistence: Temporary
+complexity: Intermediate
+depth: Medium
+---
 ## Description:  
 ---  
 Detach a portion of your soul in all directions to disrupt the targeting of incoming spells or scramble your presence, confusing pursuers and making it easier to escape  

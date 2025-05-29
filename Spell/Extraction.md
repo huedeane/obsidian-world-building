@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Low
+target: Single
+range: Short - Medium
+cast time: Instant
+cast type: Focused
+persistence: Concentration
+complexity: Basic
+depth: Medium
+---
 ## Description:  
 ---  
 Draw in the surrounding essence, gathering it into a single area  

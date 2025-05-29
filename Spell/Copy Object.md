@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Variable
+target: Single
+range: Short
+cast time: Instant
+cast type: Creation
+persistence: Temporary
+complexity: Intermediate
+depth: High
+---
 ## Description:  
 ---  
 Conjure a magical replica of the object, stripped of all properties except its form  

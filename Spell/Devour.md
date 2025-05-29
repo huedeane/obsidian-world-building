@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Variable
+target: Area of Effect
+range: Medium
+cast time: Instant
+cast type: Sustained
+persistence: Concentration
+complexity: Advanced
+depth: High
+---
 ## Description:  
 ---  
 Draw in everything around you, unraveling it all back into raw essence—absorbing fragmented souls into yourself and channeling the remaining energy into devastating spells.  

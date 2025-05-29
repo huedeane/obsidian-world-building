@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Low
+target: N/A
+range: Short
+cast time: Instant
+cast type: Creation
+persistence: Temporary
+complexity: Basic
+depth: Low
+---
 ## Description:  
 ---  
 Shape condensed essence into a thin, weaponized needle designed for quick, precise stabbing  

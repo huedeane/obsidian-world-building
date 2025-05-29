@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Variable
+target: Single
+range: Short
+cast time: Instant
+cast type: Focused
+persistence:
+complexity: Basic
+depth: High
+---
 ## Description:  
 ---  
 Use emotion as an intermediary to influence the molecular vibration of an object, altering its energy and triggering a shift in its physical phase.  

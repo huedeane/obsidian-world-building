@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Low - High
+target: Single
+range: Short
+cast time: Instant
+cast type: Single
+persistence:
+complexity: Basic
+depth: Low
+---
 ## Description:  
 ---  
 A focused effect at a specific point of contact that causes an object or entity to decay gradually at the point of touch.  

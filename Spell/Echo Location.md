@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Low
+target: Area of Effect
+range: Short - Medium
+cast time: Instant
+cast type: Expansive
+persistence: Instant
+complexity: Basic
+depth: High
+---
 ## Description:  
 ---  
 Expand a secondary pseudo-spiritual barrier outward in a powerful burst, infused with an aura that reflects and returns information about any magical essence it detects, allowing you to map the area  

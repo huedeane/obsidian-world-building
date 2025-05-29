@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Variable
+target: Single
+range: Short
+cast time: Instant, Channel
+cast type: Focused
+persistence: Instant
+complexity: Intermediate
+depth: Medium
+---
 ## Description:  
 ---  
 Split an uncast spell into one or more portions, each preserving the original spell’s properties.  

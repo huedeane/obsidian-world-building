@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Variable
+target: Single
+range: Short
+cast time: Instant
+cast type: Creation
+persistence: Instant, Temporary
+complexity: Basic
+depth: Medium
+---
 ## Description:  
 ---  
 Solidifies essence into a fragile platform, briefly holding things up or serving as a wall to propel objects off of  

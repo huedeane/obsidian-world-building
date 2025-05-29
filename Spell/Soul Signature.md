@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Low
+target: Single
+range: Short
+cast time: Instant
+cast type: Focused
+persistence: Temporary
+complexity: Basic
+depth: Medium
+---
 ## Description:  
 ---  
 Extract a wisp of soul and imprint its signature onto yourself, allowing for quick identification in future instances  

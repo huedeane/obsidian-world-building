@@ -1,0 +1,21 @@
+formulas:
+  Tag Base: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Spell"
+        - property.tags == "spell"
+    order:
+      - file.name
+      - cast time
+      - cast type
+      - complexity
+      - cost
+      - file.ctime
+    sort: []
+    columnSize:
+      property.cast time: 195
+  - type: table
+    name: View

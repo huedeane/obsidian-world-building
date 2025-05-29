@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: High
+target: Self / Area of Effect
+range: Short
+cast time: Instant
+cast type: Focused
+persistence:
+complexity: Basic
+depth: Low
+---
 ### Description:  
 ---  
 Implement an aura over one's soul barrier that applies an equal and opposing force to any physical attack that makes contact with it—the deeper the attack penetrates, the stronger the reactive force becomes  

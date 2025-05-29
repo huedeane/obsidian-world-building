@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Low
+target: Self, Area of Effect
+range: Short - Medium
+cast time: Instant
+cast type: Focused
+persistence: Permanent
+complexity: Basic
+depth: High
+---
 ## Description:  
 ---  
 Extend your spiritual barrier to encompass the surrounding area  

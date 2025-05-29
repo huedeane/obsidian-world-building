@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Low - High (Depend on force)
+target: Area of Effect
+range: Short - Medium
+cast time: Instant
+cast type: Focused, Expansive
+persistence:
+complexity: Basic
+depth: Medium
+---
 ## Description:  
 ---  
 Launch an aura that thrusts any object in its path toward a chosen direction upon impact.  

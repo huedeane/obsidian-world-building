@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Variable
+target: Single
+range: Short
+cast time: Instant, Prepared
+cast type: Creation
+persistence: Temporary
+complexity: Intermediate
+depth: Low
+---
 ## Description:  
 ---  
 Integrate a form into an aura—either one from your own knowledge or one derived from an artifact—then use restoration to summon the object.  

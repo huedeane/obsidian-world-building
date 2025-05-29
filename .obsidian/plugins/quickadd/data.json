@@ -4,7 +4,7 @@
       "id": "5bbd2f45-369a-4907-bac7-aba4038d6ccb",
       "name": "Create Spell",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "Plugin/Templater/Template/Spell Template/Spell Template.md",
       "fileNameFormat": {
         "enabled": false,
@@ -29,19 +29,47 @@
       "openFileInMode": "source",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "4bda8a73-d4dc-4536-8848-c9a4ec2d1a69",
+      "name": "Update Spell Properties Tag",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Plugin/Templater/Template/Apply Spell Properties Tag.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "macros": [
     {
-      "name": "test",
-      "id": "76521743-6dda-4a23-b63f-77944c34079a",
+      "name": "Apply Spell",
+      "id": "4b23ff74-80e0-4039-9c9f-69b883c378ec",
       "commands": [],
       "runOnStartup": false
     }
   ],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "Plugin/Templater/Template",
   "announceUpdates": true,
   "version": "1.13.3",
   "disableOnlineFeatures": true,

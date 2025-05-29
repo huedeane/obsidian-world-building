@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Low - High
+target: Single
+range: Short
+cast time: Instant
+cast type: Single, Sustained
+persistence:
+complexity: Basic
+depth: Medium
+---
 ## Description:  
 ---  
 Cancel out existing spells or magical effects by reverting the spell to its origin, a mass of raw magical essence  

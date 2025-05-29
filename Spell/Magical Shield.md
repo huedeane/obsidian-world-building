@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Variable
+target: Single
+range: Short
+cast time: Instant
+cast type: Focused
+persistence: Temporary
+complexity: Basic
+depth: Low
+---
 ## Description:  
 ---  
 A compact yet heavily fortified barrier, conjured to withstand magical and physical attacks.  

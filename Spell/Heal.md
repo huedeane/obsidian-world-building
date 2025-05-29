@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Low
+target: Single
+range: Short
+cast time: Instant
+cast type: Single
+persistence:
+complexity: Basic
+depth: High
+---
 ## Description:  
 ---  
 An applied effect that restores physical wounds to their natural, uninjured state.  

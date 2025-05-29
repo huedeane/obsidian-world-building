@@ -1,0 +1,34 @@
+[
+  {
+    "attribute" : "cost",
+    "frontmatter" : "spell-cost"
+  },
+  {
+    "attribute" : "target",
+    "frontmatter" : "target"
+  },
+  {
+    "attribute" : "range",
+    "frontmatter" : "range"
+  },
+  {
+    "attribute" : "cast time",
+    "frontmatter" : "cast time"
+  },
+  {
+    "attribute" : "cast type",
+    "frontmatter" : "cast type"
+  },
+  {
+    "attribute" : "persistence",
+    "frontmatter" : "persistence"
+  },
+  {
+    "attribute" : "complexity",
+    "frontmatter" : "complexity"
+  },
+  {
+    "attribute" : "depth",
+    "frontmatter" : "depth"
+  }
+]

@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f43359fe653b2d07",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "680c5f65dc2d7917",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown-table-editor-view",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Markdown Table Editor"
-            }
-          },
-          {
-            "id": "9bcc14ccbe0f8ce9",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/homepage/main.js",
-                "bFile": ".obsidian/plugins/homepage/main.js",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: main.js"
-            }
-          },
-          {
-            "id": "724a7f215b2d16fd",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/obsidian42-brat/main.js",
-                "bFile": ".obsidian/plugins/obsidian42-brat/main.js",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: main.js"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"creation\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Spell"
             }
           },
           {
@@ -138,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Spell"
             }
           },
           {
@@ -152,7 +129,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -166,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Spell.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Spell"
             }
           },
           {
@@ -230,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 427.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,52 +223,52 @@
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false,
       "obsidian42-brat:BRAT": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "724a7f215b2d16fd",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Plugin/Banner/homepage.png",
-    "Plugin/Plugin.md",
-    "Plugin/Util/Script/removeTag.js",
-    "Plugin/Database/Plugin.md",
-    "Plugin/Database/Plugin-1.md",
-    "Plugin/Database",
-    "Plugin/Util/Data/plugin-data.json",
-    "Plugin/Util/Script",
-    "Plugin/Util/Data",
-    "Plugin/Util",
-    "Plugin/New folder",
-    "Plugin/Data",
-    "Plugin/Script",
-    "Plugin/Templater/Template/Spell Template/Spell Template.md",
-    "Plugin/Templater/Template/Spell Template/Attribute.md",
-    "Plugin/Templater/Template/Spell Template/Description.md",
-    "Spell/Draft/aksdjf.md",
-    "Plugin/Util/Script/setContent.js",
-    "Spell/Spell.md",
-    "Spell/Draft/asdf.md",
-    "Spell/Draft/aksjdf.md",
+    "Spell.md",
+    "README.md",
     "Home.md",
+    "Spell/Spell.md",
+    "asdf.md",
+    "sdf.md",
+    "Story/Story.md",
+    "World/World.md",
+    "Spell/Draft/Arcane Silhouette.md",
+    "Spell/Draft/Dominate Will.md",
+    "Spell/Draft/Lock On.md",
+    "Spell/Draft/Firestorm.md",
+    "Spell/Untitled.base",
+    "Spell/Alter Spell.md",
+    "Plugin/Templater/Template/Apply Spell Properties Tag.md",
+    "Plugin/Templater/Template/Spell Template/Spell Template.md",
+    "Plugin/Templater/Template/Spell Template/Description.md",
+    "Spell/Arcane Blast.md",
+    "Spell/Alter Spell 1.md",
+    "Spell/Arcane Magnetism.md",
+    "Plugin/Util/Script/setContent.js",
+    "Spell/Arcane Platform.md",
+    "Spell/Arcane Thorn.md",
+    "Spell/Arcane Pierce.md",
+    "Plugin/Util/Script/getSpellAttribute.js",
+    "Plugin/Util/Data/spell-attribute.json",
+    "Plugin/Util/Data/plugin-data.json",
+    "Plugin/Plugin.md",
+    "Plugin/Database/Spell.md",
+    "Plugin/Util/Data/plugin-data - Copy.json",
+    "Plugin/Util/Script/removeTag.js",
+    "Spell/Untitled.md",
+    "Plugin/Templater/Template/Spell Template/History.md",
+    "test.canvas",
+    "World/Setting",
+    "Plugin/Database",
     "Plugin/Banner/4572611-fantasy-art-field-clouds.jpg",
     "Plugin/Banner/banner.jpg",
-    "README.md",
-    "Character/Character.md",
-    "Plugin/Templater/Template/Spell Template/Prerequisite.md",
-    "2025-05-23.md",
-    "test.md",
-    "Untitled.canvas",
-    "Spell/Draft/Arcane Grasp.md",
-    "Spell/Draft/alksdjf.md",
-    "sjdfk.md",
-    "Spell/test Spell.md",
-    "Plugin/Templater/Template/Spell Template/sdfsd.md",
-    "Plugin/Templater/Template/Spell Template/History.md",
-    "Plugin/Templater/Template/Spell Template/aksldjf.md",
-    "Plugin/Templater/Template/Spell Template/Untitled 2.md",
-    "Plugin/Templater/Template/Spell Template/kasjdf.md",
+    "Plugin/Banner/homepage.png",
+    "Plugin/Database",
     "Reference Note/wildermyth_world_map5814539681109434024.webp",
     "Reference Note/7xy582pou3y91.webp",
     "Reference Note/m8i7qerivss91.png",

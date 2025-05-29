@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Variable
+target: Self
+range: N/A
+cast time: Instant
+cast type: Sustained
+persistence:
+complexity: Basic
+depth: Medium
+---
 ## Description:  
 ---  
 A gradual surrender of one's physical body, or the flesh of another, transforming it into pure energy by reverting everything back to primal essence. Used only as a last resort, it can lead to irreversible consequences if relied upon in excess.  

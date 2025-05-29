@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Variable
+target: Single
+range: Short - Medium
+cast time: Instant
+cast type: Focused
+persistence: Instant
+complexity: Basic
+depth: Low
+---
 ## Description:  
 ---  
 Solidify essence into a thin, sharp, solid slash that is thrown in a direction, cutting through objects from a distance  

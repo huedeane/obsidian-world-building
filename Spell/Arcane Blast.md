@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Low - High
+target: Manual, Single
+range: Short - Medium
+cast time: Instant
+cast type: Single
+persistence:
+complexity: Basic
+depth: Low
+---
 ## Description:  
 ---  
 A simple, powerful burst of concentrated magical energy.  

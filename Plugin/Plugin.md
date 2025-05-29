@@ -17,7 +17,6 @@ const filePath = "/Plugin/Util/Data/plugin-data.json"
 const file = await app.vault.adapter.read(filePath);
 const jsonPluginData = JSON.parse(file)
 
-console.log(app.plugins.manifests)
 let lastCategory = null;
 
 const plugins = dv.array(Object.values(app.plugins.manifests)
@@ -60,6 +59,4 @@ const plugins = dv.array(Object.values(app.plugins.manifests)
 	})
 )
 dv.table(["Category","Name/Setting", "Author/Github", "Description", "Enabled"], plugins)
-
-
 ```

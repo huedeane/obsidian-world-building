@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: High
+target: Self / Area of Effect
+range: Short
+cast time: Instant
+cast type: Focused
+persistence:
+complexity: Basic
+depth: Low
+---
 ## Description:  
 ---  
 Implement an aura over one's soul barrier that takes control of any spell making contact with it, redirecting it in another direction. The longer the spell persists within the barrier, the greater the control the aura exerts over it.  

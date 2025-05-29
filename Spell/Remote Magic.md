@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Variable
+target: Single
+range: Variable
+cast time: Instant
+cast type: Focused / Scattershot / Barrage / Sustained / Stationary
+persistence: Temporary
+complexity: Basic
+depth: High
+---
 ## Description:  
 ---  
 An aura infused with a self-casting spell that activates automatically when specific conditions are met  

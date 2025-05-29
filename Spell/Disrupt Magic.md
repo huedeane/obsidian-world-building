@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Medium
+target: Manual / Single / Multi
+range: Short
+cast time: Instant
+cast type: Single
+persistence:
+complexity: Basic
+depth: Medium
+---
 ## Description:  
 ---  
 Unleash a short burst of disruptive aura at a target, which, upon impact, scrambles their mental focus or unsettles their actions. This brief disruption can unravel their concentration and hinder their ability to complete their spell-casting.  

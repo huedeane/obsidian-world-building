@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Variable
+target: Self, Single, Area of Effect
+range: Short
+cast time: Instant
+cast type: Single
+persistence: Concentration
+complexity: Basic
+depth: Medium
+---
 ## Description:  
 ---  
 Apply an upward force, causing the object to rise and float.  

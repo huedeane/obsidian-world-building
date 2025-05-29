@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Medium
+target: Self
+range: N/A
+cast time: Instant
+cast type: Single
+persistence:
+complexity: Intermediate
+depth: High
+---
 ## Description:  
 ---  
 Manipulate your body as if it were a magical object, allowing you to control its movement and achieve flight.  

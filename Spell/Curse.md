@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Variable
+target: Single
+range: Short
+cast time: Prepared
+cast type: Focused
+persistence: Temporary
+complexity: Advanced
+depth: High
+---
 ## Description:  
 ---  
 Apply a self-sustaining aura that attaches to the user, altering their will or emotions  

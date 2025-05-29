@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Low - Medium
+target: Single
+range: Short - Medium
+cast time: Prepared
+cast type: Focused
+persistence: Instant
+complexity: Intermediate
+depth: High
+---
 ## Description:  
 ---  
 Project an aura toward a spell that, on contact, alters its properties, target, or intended effect.  
@@ -15,7 +29,6 @@ ___
   
 ## Prerequisite  
 ___  
-  
 __Technique:__  
   
 - __Manipulation:__ Propel this aura towards a spell  
@@ -23,7 +36,6 @@ __Technique:__
 - __Enhancement:__ Strengthen the spell to ensure its effect is applied effectively  
   
 __Item:__ N/A  
-  
 ## Remarks:  
 ___  
 - Often used to counter an opponent's spell efficiently with minimal energy, but requires quick wit for effective use  

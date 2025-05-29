@@ -1,9 +1,11 @@
 # Overview  
 ---  
 This deck tracks all the spells ever created, recording their effects, origins, and any alterations made. It functions as a comprehensive archive, preserving each spell’s history and details.  
+
 ## Background  
 ---  
 A spell is an effect created by using one's soul to manipulate the magical essence around them, producing a specific result. Spells are fundamental to the magical world, evolving over time through the contributions of various magical societies. When documenting new spells, specific standards must be adhered to, addressing aspects such as target, casting time, firing method, purpose, history, prerequisites, and more. 
+
 ### Description:  
 ___  
 A comprehensive overview of the spell, detailing the practical usage its various effects.  
@@ -89,3 +91,59 @@ The systematic categorization or grouping of spells based on their attributes, e
 - Precision  
 - Area Denial  
 - Lingering Effect
+
+%% Begin Waypoint %%
+- [[Alter Spell]]
+- [[Arcane Blast]]
+- [[Arcane Magnetism]]
+- [[Arcane Pierce]]
+- [[Arcane Platform]]
+- [[Arcane Slash]]
+- [[Arcane Thorn]]
+- [[Copy Object]]
+- [[Curse]]
+- [[Dash]]
+- [[Decay Touch]]
+- [[Devour]]
+- [[Dispel]]
+- [[Disperse]]
+- [[Disrupt Magic]]
+- **Draft**
+	- [[Arcane Grasp]]
+	- [[Arcane Lock]]
+	- [[Arcane Puppeteer]]
+	- [[Arcane Silhouette]]
+	- [[Arcane Strike]]
+	- [[Arcane Tracking]]
+	- [[Astral Projection]]
+	- [[Dominate Will]]
+	- [[Elemental Projectile]]
+	- [[Entomb]]
+	- [[Fireball]]
+	- [[Firestorm]]
+	- [[Lock On]]
+	- [[Magical Lock]]
+	- [[Modify Form]]
+	- [[Molding]]
+	- [[Stir Emotion]]
+	- [[Subjugation]]
+- [[Echo Location]]
+- [[Extraction]]
+- [[Flesh Sacrifice]]
+- [[Flight]]
+- [[Force]]
+- [[Foresight]]
+- [[Heal]]
+- [[Levitate]]
+- [[Mage's Domain]]
+- [[Magical Shield]]
+- [[Parry]]
+- [[Phase Shift]]
+- [[Reflective Magical Barrier]]
+- [[Reflective Physical Barrier]]
+- [[Remote Magic]]
+- [[Soul Signature]]
+- [[Split Magic]]
+- [[Summon Object]]
+
+%% End Waypoint %%

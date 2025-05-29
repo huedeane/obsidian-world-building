@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Low
+target: Self, Single
+range: Short
+cast time: Instant
+cast type: Focused
+persistence: Temporary
+complexity: Basic
+depth: Medium
+---
 ## Description:  
 ---  
 Apply an aura that, upon contact, exerts a connecting force to draw and bind objects together physically  

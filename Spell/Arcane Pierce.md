@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Variable
+target: Single
+range: Short - Medium
+cast time: Instant
+cast type: Focused
+persistence: Instant
+complexity: Basic
+depth: Low
+---
 ## Description:  
 ---  
 Solidify essence into a sharp, straight beam that is projected outward, piercing through anything in its path  

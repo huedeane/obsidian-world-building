@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Low
+target: Manual
+range: Short - Medium
+cast time: Instant
+cast type: Single
+persistence:
+complexity: Basic
+depth: High
+---
 ## Description:  
 ---  
 Unleash a massive burst of energy to dramatically increase your speed, propelling you swiftly toward a target destination.  

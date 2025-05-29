@@ -1,3 +1,17 @@
+---
+tags:
+  - spell
+status:
+  - done
+spell-cost: Low
+target: Self / Area of Effect
+range: Short - Medium
+cast time: Instant
+cast type: Focused
+persistence: Permanent
+complexity: Intermediate
+depth: High
+---
 ## Description:  
 ---  
 Expand one's spiritual barrier, within which anything or anyone that comes into contact transmits their will or emotions back to the user, enabling the prediction of their next move.  
