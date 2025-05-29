@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "599070627fb03852",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Plugin/Bases/.md",
-                "bFile": "Plugin/Bases/.md",
+                "aFile": "Plugin/Bases/Spell.base",
+                "bFile": "Plugin/Bases/Spell.base",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff:"
+              "title": "Diff: Spell.base"
             }
           }
         ]
@@ -208,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 915.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,8 +281,11 @@
       }
     ]
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6a2643712586bcbc",
   "lastOpenFiles": [
+    "Plugin/Bases/Spell.base",
+    "Plugin/Util/Data/plugin-data.json",
+    "Plugin/Plugin.md",
     "Spell/Draft/Arcane Grasp.md",
     "Spell/Draft/Arcane Lock.md",
     "Spell/Draft/Lock On.md",
@@ -295,7 +298,6 @@
     "Plugin/Util/Script/removeTag.js",
     "Plugin/Util/Script/getSpellAttribute.js",
     "Plugin/Util/Data/spell-attribute.json",
-    "Plugin/Util/Data/plugin-data.json",
     "Spell/Alter Spell.md",
     "Spell/Draft/aksdjf.md",
     "Spell/Arcane Pierce.md",
@@ -312,10 +314,7 @@
     "Spell/Spell.md",
     "Spell/Draft/test.md",
     "Spell/Draft/skldjf.md",
-    "Spell/Draft/askdjfa.md",
-    "Plugin/Templater/Command/ter.md",
     "Plugin/Templater/Command",
-    "Plugin/Bases/Spell.base",
     "Plugin/Util/Data/plugin-data - Copy.json",
     "test.canvas",
     "World/Setting",

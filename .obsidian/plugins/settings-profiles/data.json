@@ -1,13 +1,10 @@
 {
-  "activeProfile": {
-    "name": "Default",
-    "modifiedAt": "2025-05-19T00:34:54.464Z"
-  },
+  "activeProfile": {},
   "profileUpdate": true,
   "profileUpdateDelay": 800,
   "uiUpdate": true,
   "uiUpdateInterval": 1000,
   "devices": {
-    "c4a688b460a8036f305310b622fdb25da9ea70dbdfa4893cc1672e17512ee1e2": "C:\\Users\\Hieu Dinh\\AppData\\Local\\ObsidianPlugins\\Data\\Profiles"
+    "c4a688b460a8036f305310b622fdb25da9ea70dbdfa4893cc1672e17512ee1e2": "..\\profiles"
   }
 }

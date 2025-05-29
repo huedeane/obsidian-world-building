@@ -108,5 +108,20 @@
     "repo": "https://github.com/MugishoMp/obsidian-editor-width-slider",
     "description": "",
     "category": "Enhancer"
+  },
+  "waypoint": {
+    "repo": "https://github.com/IdreesInc/Waypoint",
+    "description": "",
+    "category": "Enhancer"
+  },
+  "multi-tag": {
+    "repo": "https://github.com/technohiker/obsidian-multi-tag",
+    "description": "",
+    "category": "Enhancer"
+  },
+  "metadata-menu": {
+    "repo": "https://github.com/mdelobelle/metadatamenu",
+    "description": "",
+    "category": "Enhancer"
   }
 }
