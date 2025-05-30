@@ -123,5 +123,15 @@
     "repo": "https://github.com/mdelobelle/metadatamenu",
     "description": "",
     "category": "Enhancer"
+  },
+  "rich-foot": {
+    "repo": "https://github.com/jparkerweb/rich-foot",
+    "description": "",
+    "category": "Enhancer"
+  },
+  "task-board": {
+    "repo": "https://github.com/tu2-atmanand/Task-Board",
+    "description": "",
+    "category": "Functionality"
   }
 }

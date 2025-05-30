@@ -7,7 +7,7 @@ target: Single
 range: Short
 cast time: Instant
 cast type: Single, Sustained
-persistence:
+persistence: 
 complexity: Basic
 depth: Medium
 ---

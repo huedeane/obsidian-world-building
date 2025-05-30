@@ -125,6 +125,7 @@ The systematic categorization or grouping of spells based on their attributes, e
 	- [[Magical Lock]]
 	- [[Modify Form]]
 	- [[Molding]]
+	- [[skdjfksadf]]
 	- [[Stir Emotion]]
 	- [[Subjugation]]
 - [[Echo Location]]

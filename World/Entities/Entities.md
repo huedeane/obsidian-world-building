@@ -1,15 +1,15 @@
 ---
-sorting-spec: |
+sorting-spec: |-
   target-folder: .
   Beings
   Titles
-  
+
   target-folder: ./Beings
   Human
   Spirits
   Demigod
   Aspect
-  
+
   target-folder: ./Titles
   < a-z
 tags:

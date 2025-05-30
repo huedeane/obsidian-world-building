@@ -7,7 +7,7 @@ target: Single
 range: Short
 cast time: Instant
 cast type: Focused
-persistence:
+persistence: 
 complexity: Basic
 depth: High
 ---

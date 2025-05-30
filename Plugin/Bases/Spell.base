@@ -2,10 +2,10 @@ formulas:
   Tag Base: ""
 views:
   - type: table
-    name: Table
+    name: Spell
     filters:
       and:
-        - file.folder == "Spell"
+        - file.folder == "World/System/Magic/Spell"
         - property.tags == "spell"
     order:
       - file.name
@@ -14,7 +14,11 @@ views:
       - complexity
       - cost
       - file.ctime
-    sort: []
+    sort:
+      - column: file.ctime
+        direction: DESC
+      - column: property.complexity
+        direction: DESC
     columnSize:
       property.cast time: 195
   - type: table

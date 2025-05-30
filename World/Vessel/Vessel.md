@@ -1,8 +1,8 @@
 ---
-sorting-spec: |
+sorting-spec: |-
   Natural Vessel
   Artificial Vessel
-  As...ended Vessel
+  ...Ascended Vessel
   Forsaken Vessel
   Celestial Vessel
 tags:

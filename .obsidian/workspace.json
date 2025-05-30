@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "599070627fb03852",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Plugin/Bases/Spell.base",
-                "bFile": "Plugin/Bases/Spell.base",
-                "aRef": ""
+                "file": "World/World.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Spell.base"
+              "icon": "lucide-file",
+              "title": "World"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spell.md",
+                "file": "World/Cosmology/Cosmology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,21 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spell"
-            }
-          },
-          {
-            "id": "8b194d9ba8ff7bf0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Spell.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Spell"
+              "title": "Backlinks for Cosmology"
             }
           },
           {
@@ -143,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spell.md",
+                "file": "World/Cosmology/Cosmology.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spell"
+              "title": "Outline of Cosmology"
             }
           },
           {
@@ -185,9 +171,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "a45c1f6362eaa08f",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "World/Cosmology/Cosmology.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "bce7f2820294a982",
@@ -208,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 915.5
+    "width": 523.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,101 +223,50 @@
       "vscode-editor:Create Code File": false,
       "obsidian42-brat:BRAT": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "dbfolder:Create a new database table": false
+      "task-board:Open task board": false
     }
   },
-  "floating": {
-    "id": "101b7fe54d7cbe91",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7c81f4124a306562",
-        "type": "window",
-        "children": [
-          {
-            "id": "0de7ca2b7056d648",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b5cc38b2e421be4d",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/mdelobelle/metadatamenu",
-                    "title": "GitHub - mdelobelle/metadatamenu: For data management enthusiasts : type and manage the metadata of your notes.",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "GitHub - mdelobelle/metadatamenu: For data management enthusiasts : type and manage the metadata of your notes."
-                }
-              },
-              {
-                "id": "b457a8635bbf2849",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://www.youtube.com/watch?v=7bvIAkJf0OE",
-                    "title": "metadatamenu - 015 - field settings and dataview controls - YouTube",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "metadatamenu - 015 - field settings and dataview controls - YouTube"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 2903,
-        "y": -20,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6a2643712586bcbc",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Reference Note/Reference.md",
     "Plugin/Bases/Spell.base",
+    "World/Cosmology/Cosmology.md",
+    "World/Cosmology/Creation of Planetary Celestial.md",
+    "World/Cosmology/Paradox of the Fallen.md",
+    "World/Cosmology/Journey of the Ascended.md",
+    "World/Cosmology/Ascending One's Soul.md",
+    "World/Cosmology/The Cycle of Mortal Souls.md",
     "Plugin/Util/Data/plugin-data.json",
     "Plugin/Plugin.md",
-    "Spell/Draft/Arcane Grasp.md",
-    "Spell/Draft/Arcane Lock.md",
-    "Spell/Draft/Lock On.md",
-    "Spell/Arcane Blast.md",
-    "Spell/Arcane Thorn.md",
-    "Plugin/Templater/Template/Spell Template.md",
+    "test/test.md",
+    "test/testfile2.md",
+    "test/testfile3.md",
+    "test/testfileasc.md",
+    "Plugin/Templater/Command/Add Pagination Button.md",
     "Plugin/Templater/Command/Update Spell Frontmatter.md",
     "Plugin/Templater/Command/Create Spell.md",
+    "World/Cosmology/Incursion Against One's Home.md",
+    "World/Cosmology/Life's Defiance.md",
+    "World/Cosmology/Defending One's Home.md",
+    "Home.md",
+    "World/Items/Items.md",
+    "World/Character/Character.md",
+    "World/Vessel/Vessel.md",
+    "World/System/System.md",
+    "World/Essence/Essence.md",
+    "World/Entities/Entities.md",
+    "test/testfile1.md",
+    "test",
+    "Spell",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "Plugin/Util/Script/setContent.js",
     "Plugin/Util/Script/removeTag.js",
     "Plugin/Util/Script/getSpellAttribute.js",
     "Plugin/Util/Data/spell-attribute.json",
-    "Spell/Alter Spell.md",
-    "Spell/Draft/aksdjf.md",
-    "Spell/Arcane Pierce.md",
-    "Spell/Copy Object.md",
-    "Spell/Dash.md",
-    "Spell/Arcane Magnetism.md",
-    "Spell/Draft/Subjugation.md",
-    "Spell/Draft/Stir Emotion.md",
-    "Plugin/Templater/Command/test2.md",
-    "Spell/Draft/test psll.md",
-    "Spell/Draft/aklsdjf.md",
-    "Spell/Draft/alksdjf.md",
-    "Spell/Draft/alksdjf 1.md",
-    "Spell/Spell.md",
-    "Spell/Draft/test.md",
-    "Spell/Draft/skldjf.md",
     "Plugin/Templater/Command",
     "Plugin/Util/Data/plugin-data - Copy.json",
     "test.canvas",
-    "World/Setting",
-    "Plugin/Bases",
     "Plugin/Banner/4572611-fantasy-art-field-clouds.jpg",
     "Plugin/Banner/banner.jpg",
     "Plugin/Banner/homepage.png",

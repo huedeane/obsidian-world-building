@@ -11,3 +11,42 @@ Still, the emergence of these new lifeforms poses a perceived threat to the plan
 Once a single spirit senses danger, the shared resonance causes that fear to ripple across the entire Nest, pulling all spirits into the conflict. What begins as a spark becomes an all-consuming war, dragging both sides into prolonged strife.  
   
 In truth, this is the Nest’s intended purpose—to ignite conflict and destabilize the planet. As the world weakens under the strain of war, the demigod’s true objective is revealed: with planetary resistance diminished, they are able to inject their will directly into the Nest, seizing complete control of all the spirits within. Through them, the demigod spreads even greater chaos, further unraveling the world. Once the planet is sufficiently broken, the demigod can finally manifest a vessel of themselves in the physical realm to finish the job.
+```meta-bind-button
+label: ◀ Previous
+style: primary
+cssStyle: "width: 33% !important; height: 50px; visibility: visible; display:inline !important;"
+tooltip: ""
+id: Prev
+hidden: true
+actions:
+  - type: open
+    link: World/Cosmology/Paradox of the Fallen.md
+    newTab: false
+```
+
+```meta-bind-button
+label: 🏠 Home
+style: primary
+cssStyle: "width: 33% !important; height: 50px; visibility: visible; display:inline !important;"
+tooltip: ""
+id: Home
+hidden: true
+actions:
+  - type: open
+    link: World/Cosmology/Cosmology.md
+    newTab: false
+```
+
+```meta-bind-button
+label: Next ▶
+style: primary
+cssStyle: "width: 33% !important; height: 50px; visibility: visible; display:inline !important;"
+tooltip: ""
+id: Next
+hidden: true
+actions:
+  - type: open
+    link: World/Cosmology/Life's Defiance.md
+    newTab: false
+```
+``BUTTON[Prev]`` ``BUTTON[Home]`` ``BUTTON[Next]``

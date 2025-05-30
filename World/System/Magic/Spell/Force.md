@@ -7,7 +7,7 @@ target: Area of Effect
 range: Short - Medium
 cast time: Instant
 cast type: Focused, Expansive
-persistence:
+persistence: 
 complexity: Basic
 depth: Medium
 ---
