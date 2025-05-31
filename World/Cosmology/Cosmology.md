@@ -10,6 +10,7 @@ sorting-spec: |-
   Defending One's Home
 tags:
   - parent
+pagination: "true"
 ---
 ### Overview  
 ---  
@@ -34,3 +35,4 @@ Even in the mysterious vastness of the cosmos, there exists a structure that gov
 [[Life's Defiance]]
 
 [[Defending One's Home]]
+

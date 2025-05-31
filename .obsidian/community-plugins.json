@@ -25,5 +25,7 @@
   "editor-width-slider",
   "metadata-menu",
   "task-board",
-  "rich-foot"
+  "virtual-footer",
+  "css-editor",
+  "open-tab-settings"
 ]

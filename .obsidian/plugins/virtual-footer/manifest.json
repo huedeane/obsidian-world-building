@@ -1,0 +1,11 @@
+{
+	"id": "virtual-footer",
+	"name": "Virtual Footer",
+	"version": "1.0.7",
+	"minAppVersion": "0.15.0",
+	"description": "Display markdown text (including dataview queries or Obsidian bases) at the bottom or top of all notes which match a specified rule, without modifying them.",
+	"author": "Signynt",
+	"authorUrl": "https://github.com/Signynt",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}

@@ -133,5 +133,20 @@
     "repo": "https://github.com/tu2-atmanand/Task-Board",
     "description": "",
     "category": "Functionality"
+  },
+  "css-editor": {
+    "repo": "https://github.com/Zachatoo/obsidian-css-editor",
+    "description": "",
+    "category": "Functionality"
+  },
+  "open-tab-settings": {
+    "repo": "https://github.com/jesse-r-s-hines/obsidian-open-tab-settings",
+    "description": "",
+    "category": "Enhancer"
+  },
+  "virtual-footer": {
+    "repo": "https://github.com/Signynt/virtual-footer",
+    "description": "",
+    "category": "Enhancer"
   }
 }

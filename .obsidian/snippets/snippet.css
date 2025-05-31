@@ -1,0 +1,88 @@
+.virtual-footer-remove-flex {
+  flex: 1 1 auto !important;
+}
+
+.virtual-footer-footer-group {
+  min-height: unset; 
+}
+
+.virtual-footer-custom {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 1rem !important
+}
+
+.virtual-footer-custom .horizontal-module {
+  border: none !important;
+  border-top: 2px solid var(--hr-color) !important;
+}
+
+.virtual-footer-custom .info-module {
+  padding: 0px 1rem;
+}
+
+.virtual-footer-custom .info-module span {
+  display: flex; 
+  gap: 2rem; 
+  justify-content: end; 
+  font-size: .8em
+}
+
+.virtual-footer-custom .pagination-module {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+.virtual-footer-custom .pagination-module .pagination-button {
+  height: 50px;
+  text-transform: capitalize;
+  background-color: var(--background-modifier-active);
+  color: var(--text-normal);
+  font-size: var(--font-text-size);
+  font-family: var(--font-text);
+
+  /*
+      --text-normal: rgb(var(--ctp-ext-text, 198, 206, 239));
+    --text-muted: rgb(var(--ctp-ext-overlay2, 148, 155, 183));
+    --text-muted-rgb: var(--ctp-overlay2);
+    --text-faint: rgb(var(--ctp-ext-subtext0, 165, 172, 201));
+    --text-error: rgb(var(--ctp-ext-red, 231, 130, 132));
+    --text-error-hover: rgba(var(--ctp-ext-red, 231, 130, 132), 0.8);
+    --text-success: rgb(var(--ctp-ext-green, 166, 209, 137));
+    --text-on-accent: rgb(var(--ctp-ext-base, 48, 52, 70));
+    --interactive-normal: rgb(var(--ctp-ext-surface0, 65, 69, 89));
+    --interactive-hover: rgb(var(--ctp-ext-surface1, 81, 86, 108));
+    --interactive-success: rgb(var(--ctp-ext-green, 166, 209, 137));
+  */
+}
+
+.virtual-footer-custom .pagination-module .pagination-button:hover {
+  background-color: var(--background-modifier-active-hover);
+  color: var(--text-faint);
+}
+
+.virtual-footer-custom .pagination-module .pagination-prev {
+  grid-column: 1;
+}
+
+.virtual-footer-custom .pagination-module .pagination-home {
+  grid-column: 2;
+}
+
+.virtual-footer-custom .pagination-module .pagination-next {
+  grid-column: 3;
+}
+
+.markdown-reading-view .markdown-preview-view .markdown-preview-section {
+  height: 100% !important;
+  min-height: 0px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  padding-bottom: 0px !important;
+}
+
+.markdown-reading-view .markdown-preview-view .markdown-preview-section .mod-footer{
+  margin-top: auto;
+}

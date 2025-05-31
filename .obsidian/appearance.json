@@ -4,5 +4,8 @@
   "interfaceFontFamily": "Comic Sans MS",
   "textFontFamily": "Comic Sans MS",
   "baseFontSizeAction": false,
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "snippet"
+  ]
 }

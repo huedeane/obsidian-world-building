@@ -7,7 +7,8 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./",
   "propertiesInDocument": "visible",
-  "promptDelete": false,
+  "promptDelete": true,
   "tabSize": 2,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "focusNewTab": false
 }
