@@ -10,5 +10,7 @@
   "promptDelete": true,
   "tabSize": 2,
   "readableLineLength": true,
-  "focusNewTab": false
+  "focusNewTab": false,
+  "livePreview": false,
+  "defaultViewMode": "source"
 }

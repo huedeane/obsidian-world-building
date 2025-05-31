@@ -33,7 +33,7 @@ const plugins = dv.array(Object.values(app.plugins.manifests)
 			p.description : jsonDescription
 		let category = isEmptyOrUndefined(jsonCategory) ? 
 			'Unset' : jsonCategory
-  return [category,name, author, description, app.plugins.enabledPlugins.has(p.id) ]
+  return [category,name, author, description, !p.isDesktopOnly ]
   })
 	.sort((a, b) => {
 		
@@ -58,5 +58,5 @@ const plugins = dv.array(Object.values(app.plugins.manifests)
 		return output;
 	})
 )
-dv.table(["Category","Name/Setting", "Author/Github", "Description", "Enabled"], plugins)
+dv.table(["Category","Name/Setting", "Author/Github", "Description", "Mobile Compatibility"], plugins)
 ```

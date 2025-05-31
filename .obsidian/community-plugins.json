@@ -27,5 +27,9 @@
   "task-board",
   "virtual-footer",
   "css-editor",
-  "open-tab-settings"
+  "open-tab-settings",
+  "settings-search",
+  "recent-files-obsidian",
+  "obsidian-reading-time",
+  "omnisearch"
 ]

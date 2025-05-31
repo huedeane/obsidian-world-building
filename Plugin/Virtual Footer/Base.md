@@ -5,6 +5,7 @@ const folderPath = file.folder;
 const folder = folderPath.split("/").pop();
 const folderNotePath = `${folderPath}/${folder}.md`;
 const page = dv.page(folderNotePath);
+const link = `obsidian://adv-uri?vault=${vaultName}&filepath={0}&viewmode=preview`;
 
 const hrElement = {
   tag: "hr",
@@ -23,7 +24,7 @@ const dateElement = {
 
 function createButton(name, type, path) {
   const btn = dv.el("button", name, { cls: `pagination-button pagination-${type}` });
-  btn.onclick = () => app.workspace.openLinkText(path, "", false);
+  btn.onclick = () => window.open(link.format(path));
   return btn;
 }
 
@@ -39,7 +40,6 @@ function createPaginationElement() {
   const wrapper = dv.container.createEl("div", { cls: "pagination-module" });
 	const paginationList = page['sorting-spec'].split('\n').map(note => note.replace('...', '').trim());
 	const index = paginationList.indexOf(file.name);
-	const link = `obsidian://open?vault=${vaultName}&file={0}`;
 
 	if (index > 0) {
 		const prevPath = `${folderPath}/${paginationList[index - 1]}`;
@@ -59,8 +59,6 @@ function createPaginationElement() {
 function renderVirtualFooter() {
   const wrapper = dv.container.createEl("div", { cls: "virtual-footer-custom" });
 	wrapper.appendChild(createHorizontalElement());
-  console.log(file)
-  console.log(folderNotePath)
 	if (page?.pagination == 'true' && file.path != folderNotePath) {
 		wrapper.appendChild(createPaginationElement());
 		wrapper.appendChild(createHorizontalElement());

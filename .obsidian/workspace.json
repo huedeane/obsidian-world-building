@@ -24,214 +24,63 @@
             }
           },
           {
-            "id": "b71b4313a4b36492",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Cosmology/Creation of Planetary Celestial.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Creation of Planetary Celestial"
-            }
-          },
-          {
-            "id": "fb5589b39de5df00",
-            "type": "leaf",
-            "state": {
-              "type": "vscode-editor",
-              "state": {
-                "file": "Plugin/Util/Data/plugin-data.json"
-              },
-              "icon": "lucide-file",
-              "title": "plugin-data"
-            }
-          },
-          {
-            "id": "759f31d2ec23204f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plugin/Plugin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plugin"
-            }
-          },
-          {
-            "id": "f2d5280d9f28fb31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Cosmology/Cosmology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cosmology"
-            }
-          },
-          {
-            "id": "a3a680977b40b1ec",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "World/Cosmology/Creation of Planetary Celestial.md",
-                "bFile": "World/Cosmology/Creation of Planetary Celestial.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Creation of Planetary Celestial"
-            }
-          },
-          {
-            "id": "2a64af92b4cfd6c4",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "World/System/Magic/Spiritual Technique/Spiritual Technique.md",
-                "bFile": "World/System/Magic/Spiritual Technique/Spiritual Technique.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Spiritual Technique"
-            }
-          },
-          {
-            "id": "bdf0591e4496e5cb",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Spell/Alter Spell.md",
-                "bFile": "Spell/Alter Spell.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Alter Spell"
-            }
-          },
-          {
-            "id": "a841166e6b665312",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "World/System/Magic/Spell/Alter Spell.md",
-                "bFile": "World/System/Magic/Spell/Alter Spell.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Alter Spell"
-            }
-          },
-          {
-            "id": "76ffadbca3231a3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plugin/Templater/Command/Create Spell.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Create Spell"
-            }
-          },
-          {
-            "id": "a2bc876ed1da7e9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plugin/Templater/Command/Update Spell Frontmatter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Update Spell Frontmatter"
-            }
-          },
-          {
-            "id": "3ebf39a0d07d4015",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plugin/Templater/Template/Spell Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spell Template"
-            }
-          },
-          {
-            "id": "e9a7fba8d989e254",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plugin/Virtual Footer/Base.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Base"
-            }
-          },
-          {
-            "id": "7ae841c6df7b6049",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/System/Magic/Spell/Alter Spell.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Alter Spell"
-            }
-          },
-          {
-            "id": "90b9a0ef0274df82",
+            "id": "6bc518c0f5297dcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Home"
             }
           },
           {
-            "id": "7c7d0550af12495b",
+            "id": "c1a74c65f2d4335e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Plugin/Templater/Template/New Note.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "New Note"
+            }
+          },
+          {
+            "id": "2faebe2f5786c6bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Term/Metasoulmorph.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Metasoulmorph"
+            }
+          },
+          {
+            "id": "7a23207c5704bb90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Term/Soul Area.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Soul Area"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -263,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uri",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -283,12 +132,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "69ccccd10f1a1ed3",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 270.5
   },
   "right": {
     "id": "cd1ecfedc34338d1",
@@ -339,12 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "World/Term/Metasoulmorph.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Metasoulmorph"
             }
           },
           {
@@ -394,7 +254,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "bce7f2820294a982",
@@ -415,7 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 523.5
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -431,49 +291,51 @@
       "vscode-editor:Create Code File": false,
       "obsidian42-brat:BRAT": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "task-board:Open task board": false
+      "task-board:Open task board": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "2a64af92b4cfd6c4",
+  "active": "2faebe2f5786c6bd",
   "lastOpenFiles": [
-    "World/Cosmology/Cosmology.md",
-    "Plugin/Plugin.md",
-    "World/Cosmology/Creation of Planetary Celestial.md",
-    "Plugin/Util/Data/plugin-data.json",
-    "World/System/Magic/Spell/Alter Spell.md",
-    "Plugin/Virtual Footer/Base.md",
-    "Plugin/Templater/Template/Spell Template.md",
+    "World/Term/Soul Area.md",
+    "World/Term/Metasoulmorph.md",
+    "Plugin/Templater/Template/New Note.md",
+    "Home.md",
+    "World/Items/Items.md",
     "Plugin/Templater/Command/Update Spell Frontmatter.md",
     "Plugin/Templater/Command/Create Spell.md",
-    "Plugin/Templater/Command/Add Pagination Button.md",
-    "Home.md",
-    "Plugin/Virtual Footer/BaseFooter.js",
-    "World/Cosmology/Defending One's Home.md",
-    "World/Cosmology/Life's Defiance.md",
-    "World/Cosmology/Incursion Against One's Home.md",
-    "World/Cosmology/Paradox of the Fallen.md",
-    "World/Cosmology/Journey of the Ascended.md",
-    "World/Cosmology/Ascending One's Soul.md",
+    "Plugin/Bases/Status.base",
+    "Plugin/Bases/Spell.base",
     "World/Cosmology/The Cycle of Mortal Souls.md",
-    "World/System/Magic/Magic.md",
+    "World/World.md",
+    "World/Items/Conduits.md",
+    "World/Items/Souly.md",
+    "World/Term",
+    "World/Items/Artifact.md",
+    "World/Items/Core.md",
+    "World/Items/Scroll.md",
+    "World/Cosmology/Creation of Planetary Celestial.md",
+    "Plugin/Virtual Footer/Base.md",
+    "World/Cosmology/Cosmology.md",
+    "World/Cosmology/Ascending One's Soul.md",
+    "Plugin/Plugin.md",
+    "Plugin/Util/Data/plugin-data.json",
+    "World/Cosmology/Journey of the Ascended.md",
+    "World/Cosmology/Paradox of the Fallen.md",
+    "World/Cosmology/Incursion Against One's Home.md",
+    "Plugin/Templater/Template/Spell Template.md",
+    "World/Cosmology/Life's Defiance.md",
+    "World/Cosmology/Defending One's Home.md",
+    "World/System/Magic/Spell/Alter Spell.md",
+    "Plugin/Virtual Footer/BaseFooter.js",
     "Plugin/Util/Script/getSpellAttribute.js",
     "Plugin/Util/Script/removeTag.js",
     "Plugin/Util/Script/setContent.js",
-    "World/System/Magic/Spiritual Technique/Spiritual Technique.md",
     "Plugin/Virtual Footer",
-    "World/World.md",
     "Plugin/Util/Data/spell-attribute.json",
-    "Plugin/Bases/Spell.base",
     "Plugin/Banner/homepage.png",
     "Plugin/Banner/banner.jpg",
     "Plugin/Banner/4572611-fantasy-art-field-clouds.jpg",
-    "Canvas",
-    "Bases",
-    "Reference Note/Reference.md",
-    "test/test.md",
-    "test/testfile2.md",
-    "test/testfile3.md",
-    "test/testfileasc.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "test.canvas",

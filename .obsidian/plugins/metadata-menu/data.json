@@ -9,10 +9,11 @@
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
-          "1": "not-started",
+          "1": "backlog",
           "2": "queue",
           "3": "in-progress",
-          "4": "completed"
+          "4": "completed",
+          "5": "need-revision"
         }
       },
       "name": "status",
@@ -31,7 +32,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.3",
+  "settingsVersion": "5.5",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,

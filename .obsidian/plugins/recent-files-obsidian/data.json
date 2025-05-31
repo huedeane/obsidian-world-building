@@ -1,0 +1,120 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Metasoulmorph",
+      "path": "World/Term/Metasoulmorph.md"
+    },
+    {
+      "basename": "Soul Area",
+      "path": "World/Term/Soul Area.md"
+    },
+    {
+      "basename": "New Note",
+      "path": "Plugin/Templater/Template/New Note.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Items",
+      "path": "World/Items/Items.md"
+    },
+    {
+      "basename": "Update Spell Frontmatter",
+      "path": "Plugin/Templater/Command/Update Spell Frontmatter.md"
+    },
+    {
+      "basename": "Create Spell",
+      "path": "Plugin/Templater/Command/Create Spell.md"
+    },
+    {
+      "basename": "Status",
+      "path": "Plugin/Bases/Status.base"
+    },
+    {
+      "basename": "Spell",
+      "path": "Plugin/Bases/Spell.base"
+    },
+    {
+      "basename": "The Cycle of Mortal Souls",
+      "path": "World/Cosmology/The Cycle of Mortal Souls.md"
+    },
+    {
+      "basename": "World",
+      "path": "World/World.md"
+    },
+    {
+      "basename": "Conduits",
+      "path": "World/Items/Conduits.md"
+    },
+    {
+      "basename": "Souly",
+      "path": "World/Items/Souly.md"
+    },
+    {
+      "basename": "Artifact",
+      "path": "World/Items/Artifact.md"
+    },
+    {
+      "basename": "Core",
+      "path": "World/Items/Core.md"
+    },
+    {
+      "basename": "Scroll",
+      "path": "World/Items/Scroll.md"
+    },
+    {
+      "basename": "Creation of Planetary Celestial",
+      "path": "World/Cosmology/Creation of Planetary Celestial.md"
+    },
+    {
+      "basename": "Base",
+      "path": "Plugin/Virtual Footer/Base.md"
+    },
+    {
+      "basename": "Cosmology",
+      "path": "World/Cosmology/Cosmology.md"
+    },
+    {
+      "basename": "Ascending One's Soul",
+      "path": "World/Cosmology/Ascending One's Soul.md"
+    },
+    {
+      "basename": "Plugin",
+      "path": "Plugin/Plugin.md"
+    },
+    {
+      "basename": "plugin-data",
+      "path": "Plugin/Util/Data/plugin-data.json"
+    },
+    {
+      "basename": "Journey of the Ascended",
+      "path": "World/Cosmology/Journey of the Ascended.md"
+    },
+    {
+      "basename": "Paradox of the Fallen",
+      "path": "World/Cosmology/Paradox of the Fallen.md"
+    },
+    {
+      "basename": "Incursion Against One's Home",
+      "path": "World/Cosmology/Incursion Against One's Home.md"
+    },
+    {
+      "basename": "Spell Template",
+      "path": "Plugin/Templater/Template/Spell Template.md"
+    },
+    {
+      "basename": "Life's Defiance",
+      "path": "World/Cosmology/Life's Defiance.md"
+    },
+    {
+      "basename": "Defending One's Home",
+      "path": "World/Cosmology/Defending One's Home.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

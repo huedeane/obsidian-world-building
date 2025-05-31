@@ -2,7 +2,7 @@
   "command_timeout": 5,
   "templates_folder": "Plugin/Templater",
   "templates_pairs": [],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
@@ -10,8 +10,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "World",
+      "template": "Plugin/Templater/Template/New Note.md"
     }
   ],
   "enable_file_templates": false,
