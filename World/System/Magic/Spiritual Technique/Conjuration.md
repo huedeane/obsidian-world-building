@@ -1,3 +1,6 @@
+---
+status: backlog
+---
 -> conjurater takes alot more upfront work because they not only have to chose one element to entirely focus on, but invest the time to conjure that particular element before they can start their journey  
 -> Conjurate material will always disappear after a certain amount of time  
 -> Only when you master conjuration to it's pinnicle can you replicate it to 100%  

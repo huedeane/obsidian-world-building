@@ -11,6 +11,7 @@ sorting-spec: |-
 tags:
   - parent
 pagination: "true"
+status: backlog
 ---
 ### Overview  
 ---  
@@ -36,3 +37,4 @@ Even in the mysterious vastness of the cosmos, there exists a structure that gov
 
 [[Defending One's Home]]
 
+[test](obsidian://adv-uri?vault=world-building&filepath=World%2FCosmology%2FCreation%20of%20Planetary%20Celestial.md)

@@ -1,13 +1,13 @@
 ---
 tags:
   - spell
-status: completed
+status: revision
 spell-cost: Low
 target: Single
 range: Short
 cast time: Instant
 cast type: Sustained
-persistence: 
+persistence:
 complexity: Basic
 depth: High
 ---

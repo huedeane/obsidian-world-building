@@ -1,3 +1,6 @@
+---
+status: backlog
+---
 ### Overview  
 ---  
 Infusion grants individuals the ability to seamlessly meld their essence with another object or entity. Many choose to specialize in infusion as their proficiency, aiming to amplify their effectiveness in utilizing conduits for this purpose. Others use it as a medium to effectively channel their techniques to a target.  

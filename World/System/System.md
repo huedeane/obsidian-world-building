@@ -1,3 +1,6 @@
+---
+status: backlog
+---
 ### Overview  
 ___  
   A system of power defines the rules and mechanisms by which individuals in a particular setting harness and utilize their abilities.  

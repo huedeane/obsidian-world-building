@@ -1,13 +1,12 @@
 ---
 tags:
   - spell
-status: completed
-spell-cost: Variable
+status: revision
 target: Self
 range: N/A
 cast time: Instant
 cast type: Sustained
-persistence: 
+persistence:
 complexity: Basic
 depth: Medium
 ---

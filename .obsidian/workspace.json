@@ -24,63 +24,117 @@
             }
           },
           {
-            "id": "6bc518c0f5297dcd",
+            "id": "583bd30f822cc1ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "World/Cosmology/Creation of Planetary Celestial.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Creation of Planetary Celestial"
             }
           },
           {
-            "id": "c1a74c65f2d4335e",
+            "id": "f58a597048479808",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plugin/Templater/Template/New Note.md",
+                "file": "World/Term/Souly.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "New Note"
+              "title": "Souly"
             }
           },
           {
-            "id": "2faebe2f5786c6bd",
+            "id": "74e4a35e6071cd6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Term/Metasoulmorph.md",
+                "file": "World/Items/Items.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Metasoulmorph"
+              "title": "Items"
             }
           },
           {
-            "id": "7a23207c5704bb90",
+            "id": "805b60df18c600d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Term/Soul Area.md",
+                "file": "World/Items/Artifact/Artifact.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Soul Area"
+              "title": "Artifact"
+            }
+          },
+          {
+            "id": "501d1a62f9dc801d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Items/Artifact/Ethereal Artifact.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ethereal Artifact"
+            }
+          },
+          {
+            "id": "b2074920eae4a78c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Items/Artifact/Transient Artifact.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Transient Artifact"
+            }
+          },
+          {
+            "id": "6fe5dc0b9c7db15b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Items/Artifact/Curse Artifact.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Curse Artifact"
+            }
+          },
+          {
+            "id": "1479c64b55499d47",
+            "type": "leaf",
+            "state": {
+              "type": "css-editor-view",
+              "state": {
+                "file": "snippet.css"
+              },
+              "icon": "file-code",
+              "title": "snippet"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -198,13 +252,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Term/Metasoulmorph.md",
+                "file": "World/Items/Artifact/Curse Artifact.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Metasoulmorph"
+              "title": "Outline of Curse Artifact"
             }
           },
           {
@@ -254,7 +308,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "bce7f2820294a982",
@@ -275,7 +329,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,44 +349,83 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2faebe2f5786c6bd",
+  "floating": {
+    "id": "d38a2dc77ab0bea3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "fb655efa2396035c",
+        "type": "window",
+        "children": [
+          {
+            "id": "cfd7760f0462a40d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "66627e42e028dd48",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://florianwoelki.github.io/obsidian-iconize/files-and-folders/icon-before-file-or-folder.html",
+                    "title": "Icon before file or folder name | Obsidian Iconize",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Icon before file or folder name | Obsidian Iconize"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 300,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1.5
+      }
+    ]
+  },
+  "active": "14cb23e9bf1a7569",
   "lastOpenFiles": [
+    "World/Items/Artifact/Transient Artifact.md",
+    "World/Items/Artifact/Ethereal Artifact.md",
+    "World/Items/Artifact/Curse Artifact.md",
+    "World/Items/Artifact/Artifact.md",
+    "World/Items/Artifact",
+    "World/Items/Items.md",
+    "World/Term/Souly.md",
+    "World/Cosmology/Creation of Planetary Celestial.md",
     "World/Term/Soul Area.md",
     "World/Term/Metasoulmorph.md",
-    "Plugin/Templater/Template/New Note.md",
-    "Home.md",
-    "World/Items/Items.md",
-    "Plugin/Templater/Command/Update Spell Frontmatter.md",
-    "Plugin/Templater/Command/Create Spell.md",
+    "World/Term/Term.md",
+    "World/System/Magic/Spell/Reflective Physical Barrier.md",
+    "World/System/Magic/Spell/Magical Shield.md",
+    "World/System/Magic/Spell/Flight.md",
+    "World/System/Magic/Spell/Foresight.md",
+    "World/System/Magic/Spell/Extraction.md",
+    "World/System/Magic/Spell/Force.md",
+    "World/System/Magic/Spell/Flesh Sacrifice.md",
+    "World/System/Magic/Spell/Echo Location.md",
+    "World/System/Magic/Spell/Heal.md",
     "Plugin/Bases/Status.base",
     "Plugin/Bases/Spell.base",
-    "World/Cosmology/The Cycle of Mortal Souls.md",
-    "World/World.md",
-    "World/Items/Conduits.md",
-    "World/Items/Souly.md",
+    "World/System/Magic/Spell/Disrupt Magic.md",
+    "World/System/Magic/Spell/Draft/Lock On.md",
+    "World/System/Magic/Spell/Levitate.md",
+    "Plugin/Templater/Template/New Note.md",
+    "World/System/Magic/Spell/Mage's Domain.md",
+    "World/System/Magic/Spell/Parry.md",
+    "World/System/Magic/Spell/Phase Shift.md",
     "World/Term",
-    "World/Items/Artifact.md",
-    "World/Items/Core.md",
-    "World/Items/Scroll.md",
-    "World/Cosmology/Creation of Planetary Celestial.md",
-    "Plugin/Virtual Footer/Base.md",
-    "World/Cosmology/Cosmology.md",
-    "World/Cosmology/Ascending One's Soul.md",
-    "Plugin/Plugin.md",
     "Plugin/Util/Data/plugin-data.json",
-    "World/Cosmology/Journey of the Ascended.md",
-    "World/Cosmology/Paradox of the Fallen.md",
-    "World/Cosmology/Incursion Against One's Home.md",
-    "Plugin/Templater/Template/Spell Template.md",
-    "World/Cosmology/Life's Defiance.md",
-    "World/Cosmology/Defending One's Home.md",
-    "World/System/Magic/Spell/Alter Spell.md",
     "Plugin/Virtual Footer/BaseFooter.js",
     "Plugin/Util/Script/getSpellAttribute.js",
     "Plugin/Util/Script/removeTag.js",
     "Plugin/Util/Script/setContent.js",
     "Plugin/Virtual Footer",
-    "Plugin/Util/Data/spell-attribute.json",
     "Plugin/Banner/homepage.png",
     "Plugin/Banner/banner.jpg",
     "Plugin/Banner/4572611-fantasy-art-field-clouds.jpg",

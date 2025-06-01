@@ -1,8 +1,9 @@
 ---
 tags:
-  - Spell
-creation: <% tp.file.creation_date() %>
-status: not-started
+  - spell
+  - child
+  - need-better-name
+status: backlog
 ---
 ### Description
 ---  

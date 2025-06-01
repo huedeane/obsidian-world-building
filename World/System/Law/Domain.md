@@ -1,3 +1,6 @@
+---
+status: backlog
+---
 ### Overview  
 ---  
 When an individual applies their unique blend of law in an open space, this area is termed a domain—an environment meticulously crafted by the user to aid them in battle. It represents the most effective form of applying law, since it affects everyone there isn't a need for a trade-off. This process though does demands a substantial amount of cosmic essences, which an opposing opponent can exploit. If one can identify the type of law being applied and counteract it with an equal and opposite force on themselves, they can nullify the effect and come out with a net advantage in the tug of battle. However, this won't counteract the law being applied to other entities within the affected space.  

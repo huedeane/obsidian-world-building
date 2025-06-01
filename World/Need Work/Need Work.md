@@ -1,3 +1,6 @@
+---
+status: backlog
+---
 %% Begin Waypoint %%
 - [[Archetype of Mage]]
 - [[Building]]

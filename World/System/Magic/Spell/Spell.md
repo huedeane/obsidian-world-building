@@ -1,3 +1,6 @@
+---
+status: backlog
+---
 # Overview  
 ---  
 This deck tracks all the spells ever created, recording their effects, origins, and any alterations made. It functions as a comprehensive archive, preserving each spell’s history and details.  

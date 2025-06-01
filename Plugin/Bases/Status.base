@@ -1,0 +1,97 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: All
+    filters:
+      and:
+        - contains(file.folder, "World")
+    order:
+      - file.name
+      - status
+      - file.folder
+    sort:
+      - column: property.status
+        direction: DESC
+      - column: file.folder
+        direction: ASC
+    columnSize:
+      property.status: 165
+      file.folder: 320
+  - type: table
+    name: Backlog
+    filters:
+      and:
+        - contains(file.folder, "World")
+        - property.status == "backlog"
+    order:
+      - file.name
+      - status
+      - file.folder
+    sort:
+      - column: property.status
+        direction: ASC
+      - column: file.folder
+        direction: ASC
+    columnSize:
+      property.status: 165
+      file.folder: 320
+  - type: table
+    name: In-Progress
+    filters:
+      and:
+        - contains(file.folder, "World")
+        - property.status == "in-progress"
+    order:
+      - file.name
+      - status
+      - file.folder
+    sort:
+      - column: property.status
+        direction: ASC
+      - column: file.folder
+        direction: ASC
+    columnSize:
+      property.status: 165
+      file.folder: 320
+  - type: table
+    name: Completed
+    filters:
+      and:
+        - contains(file.folder, "World")
+        - property.status == "completed"
+    order:
+      - file.name
+      - status
+      - file.folder
+    sort:
+      - column: property.status
+        direction: ASC
+      - column: file.folder
+        direction: ASC
+    columnSize:
+      property.status: 165
+      file.folder: 320
+  - type: table
+    name: Queue
+    filters:
+      and:
+        - property.status == "queue"
+  - type: table
+    name: Revision
+    filters:
+      and:
+        - contains(file.folder, "World")
+        - property.status == "need-revision"
+    order:
+      - file.name
+      - status
+      - file.folder
+    sort:
+      - column: property.status
+        direction: ASC
+      - column: file.folder
+        direction: ASC
+    columnSize:
+      property.status: 165
+      file.folder: 320

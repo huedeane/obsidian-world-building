@@ -1,3 +1,6 @@
+---
+status: backlog
+---
 ### Overview  
 ---  
 Demigods are born when a spiritual essence unbinds itself from the world. As it unbinds, it seeks a new purpose and eventually finds itself drawn back to the Eye of the Universe, where all lost spiritual essences yearn to return. Not all spiritual essences possess the will to endure this journey; those that halt midway become demigods. After a considerable span of time floating around, they discover the presence of cosmic essence all around them. Harnessing this power, they unlock the power of law. With this newfound power comes the quest for more and a deeper understanding.  

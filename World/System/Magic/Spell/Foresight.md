@@ -1,8 +1,8 @@
 ---
 tags:
   - spell
-status: completed
-spell-cost: Low
+status: revisiont
+cost: Low
 target: Self / Area of Effect
 range: Short - Medium
 cast time: Instant

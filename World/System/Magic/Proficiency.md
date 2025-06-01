@@ -1,3 +1,6 @@
+---
+status: backlog
+---
 ### Overview  
 ---  
 Due to the limitations of lifespan, proficiency level represents the most efficient way for an individual to further increase the mastery of their technique. A primary proficiency is the main focus of one's life and is considered to be 100% efficient. Secondary proficiency helps one branch out and specialize within their profession, and is considered 75% efficient. Tertiary proficiency serves to cover any weaknesses that arise from specialization, allowing them to be more well-rounded; it is considered 50% efficient until reaching a common cutoff point, where anything beyond diminishes to 25%. This cutoff point is called the learning threshold. Anything past this threshold is called one's specialized proficiency. This is due to the level of growth and understanding of a technique not being linear but exponential. This threshold represents the highest form of basic understanding before one has to specialize; thus, advancing tertiary techniques beyond this point is deemed a waste of time. Techniques developed within this threshold are coined as common techniques, representing skills and abilities that any common person can learn to perform given adequate time.  

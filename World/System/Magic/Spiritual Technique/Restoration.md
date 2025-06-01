@@ -1,3 +1,6 @@
+---
+status: backlog
+---
 -> Restoration can be very dangerous ability to apply to an entity because if applied to an area for too long, you can end up decontructing yourself to energy  
 -> This is why restoration should be percisly targeted rather then to be used overall  
 -> Healing oneself is alot easier as it is easier to understand one's form, but when apply healing to other people, their form is different making it hard to heal them  

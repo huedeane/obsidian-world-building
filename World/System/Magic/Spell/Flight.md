@@ -1,13 +1,13 @@
 ---
 tags:
   - spell
-status: completed
-spell-cost: Medium
+status: revision
+cost: Medium
 target: Self
 range: N/A
 cast time: Instant
 cast type: Single
-persistence: 
+persistence:
 complexity: Intermediate
 depth: High
 ---

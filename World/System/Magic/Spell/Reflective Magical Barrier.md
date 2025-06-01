@@ -1,13 +1,12 @@
 ---
 tags:
   - spell
-status: completed
-spell-cost: High
+status: revision
 target: Self / Area of Effect
 range: Short
 cast time: Instant
 cast type: Focused
-persistence: 
+persistence:
 complexity: Basic
 depth: Low
 ---

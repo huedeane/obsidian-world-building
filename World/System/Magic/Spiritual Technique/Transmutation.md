@@ -1,3 +1,6 @@
+---
+status: backlog
+---
 -> Allows one to change the properties of their essence by using their emotion  
 -> Hotblooded emotion allows something to be much more muttable while coldblooded emtion makes stuff much more immutable  
 -> this is done by using your emotions as a medium to control the movement of molecule  

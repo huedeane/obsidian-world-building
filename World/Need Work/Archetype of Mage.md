@@ -1,3 +1,6 @@
+---
+status: backlog
+---
 Scholar Mage  
   
 -> Someone that focus much more on magical theory  

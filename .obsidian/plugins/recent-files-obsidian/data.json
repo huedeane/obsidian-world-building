@@ -1,32 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "Metasoulmorph",
-      "path": "World/Term/Metasoulmorph.md"
+      "basename": "Curse Artifact",
+      "path": "World/Items/Artifact/Curse Artifact.md"
     },
     {
-      "basename": "Soul Area",
-      "path": "World/Term/Soul Area.md"
+      "basename": "Transient Artifact",
+      "path": "World/Items/Artifact/Transient Artifact.md"
     },
     {
-      "basename": "New Note",
-      "path": "Plugin/Templater/Template/New Note.md"
+      "basename": "Ethereal Artifact",
+      "path": "World/Items/Artifact/Ethereal Artifact.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
+      "basename": "Artifact",
+      "path": "World/Items/Artifact/Artifact.md"
     },
     {
       "basename": "Items",
       "path": "World/Items/Items.md"
     },
     {
-      "basename": "Update Spell Frontmatter",
-      "path": "Plugin/Templater/Command/Update Spell Frontmatter.md"
+      "basename": "Souly",
+      "path": "World/Term/Souly.md"
     },
     {
-      "basename": "Create Spell",
-      "path": "Plugin/Templater/Command/Create Spell.md"
+      "basename": "Creation of Planetary Celestial",
+      "path": "World/Cosmology/Creation of Planetary Celestial.md"
+    },
+    {
+      "basename": "Soul Area",
+      "path": "World/Term/Soul Area.md"
+    },
+    {
+      "basename": "Metasoulmorph",
+      "path": "World/Term/Metasoulmorph.md"
+    },
+    {
+      "basename": "Term",
+      "path": "World/Term/Term.md"
+    },
+    {
+      "basename": "Reflective Physical Barrier",
+      "path": "World/System/Magic/Spell/Reflective Physical Barrier.md"
+    },
+    {
+      "basename": "Magical Shield",
+      "path": "World/System/Magic/Spell/Magical Shield.md"
+    },
+    {
+      "basename": "Flight",
+      "path": "World/System/Magic/Spell/Flight.md"
+    },
+    {
+      "basename": "Foresight",
+      "path": "World/System/Magic/Spell/Foresight.md"
+    },
+    {
+      "basename": "Extraction",
+      "path": "World/System/Magic/Spell/Extraction.md"
+    },
+    {
+      "basename": "Force",
+      "path": "World/System/Magic/Spell/Force.md"
+    },
+    {
+      "basename": "Flesh Sacrifice",
+      "path": "World/System/Magic/Spell/Flesh Sacrifice.md"
+    },
+    {
+      "basename": "Echo Location",
+      "path": "World/System/Magic/Spell/Echo Location.md"
+    },
+    {
+      "basename": "Heal",
+      "path": "World/System/Magic/Spell/Heal.md"
     },
     {
       "basename": "Status",
@@ -35,6 +83,86 @@
     {
       "basename": "Spell",
       "path": "Plugin/Bases/Spell.base"
+    },
+    {
+      "basename": "Disrupt Magic",
+      "path": "World/System/Magic/Spell/Disrupt Magic.md"
+    },
+    {
+      "basename": "Lock On",
+      "path": "World/System/Magic/Spell/Draft/Lock On.md"
+    },
+    {
+      "basename": "Levitate",
+      "path": "World/System/Magic/Spell/Levitate.md"
+    },
+    {
+      "basename": "New Note",
+      "path": "Plugin/Templater/Template/New Note.md"
+    },
+    {
+      "basename": "Mage's Domain",
+      "path": "World/System/Magic/Spell/Mage's Domain.md"
+    },
+    {
+      "basename": "Parry",
+      "path": "World/System/Magic/Spell/Parry.md"
+    },
+    {
+      "basename": "Phase Shift",
+      "path": "World/System/Magic/Spell/Phase Shift.md"
+    },
+    {
+      "basename": "Reflective Magical Barrier",
+      "path": "World/System/Magic/Spell/Reflective Magical Barrier.md"
+    },
+    {
+      "basename": "Remote Magic",
+      "path": "World/System/Magic/Spell/Remote Magic.md"
+    },
+    {
+      "basename": "Soul Signature",
+      "path": "World/System/Magic/Spell/Soul Signature.md"
+    },
+    {
+      "basename": "Split Magic",
+      "path": "World/System/Magic/Spell/Split Magic.md"
+    },
+    {
+      "basename": "Summon Object",
+      "path": "World/System/Magic/Spell/Summon Object.md"
+    },
+    {
+      "basename": "Magic",
+      "path": "World/System/Magic/Magic.md"
+    },
+    {
+      "basename": "Spell",
+      "path": "World/System/Magic/Spell/Spell.md"
+    },
+    {
+      "basename": "Class",
+      "path": "World/System/Magic/Class/Class.md"
+    },
+    {
+      "basename": "Warrior",
+      "path": "World/System/Magic/Class/Warrior.md"
+    },
+    {
+      "basename": "Spell Template",
+      "path": "Plugin/Templater/Template/Spell Template.md"
+    },
+    {
+      "basename": "Create Spell",
+      "path": "Plugin/Templater/Command/Create Spell.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Update Spell Frontmatter",
+      "path": "Plugin/Templater/Command/Update Spell Frontmatter.md"
     },
     {
       "basename": "The Cycle of Mortal Souls",
@@ -49,24 +177,12 @@
       "path": "World/Items/Conduits.md"
     },
     {
-      "basename": "Souly",
-      "path": "World/Items/Souly.md"
-    },
-    {
-      "basename": "Artifact",
-      "path": "World/Items/Artifact.md"
-    },
-    {
       "basename": "Core",
       "path": "World/Items/Core.md"
     },
     {
       "basename": "Scroll",
       "path": "World/Items/Scroll.md"
-    },
-    {
-      "basename": "Creation of Planetary Celestial",
-      "path": "World/Cosmology/Creation of Planetary Celestial.md"
     },
     {
       "basename": "Base",
@@ -83,34 +199,6 @@
     {
       "basename": "Plugin",
       "path": "Plugin/Plugin.md"
-    },
-    {
-      "basename": "plugin-data",
-      "path": "Plugin/Util/Data/plugin-data.json"
-    },
-    {
-      "basename": "Journey of the Ascended",
-      "path": "World/Cosmology/Journey of the Ascended.md"
-    },
-    {
-      "basename": "Paradox of the Fallen",
-      "path": "World/Cosmology/Paradox of the Fallen.md"
-    },
-    {
-      "basename": "Incursion Against One's Home",
-      "path": "World/Cosmology/Incursion Against One's Home.md"
-    },
-    {
-      "basename": "Spell Template",
-      "path": "Plugin/Templater/Template/Spell Template.md"
-    },
-    {
-      "basename": "Life's Defiance",
-      "path": "World/Cosmology/Life's Defiance.md"
-    },
-    {
-      "basename": "Defending One's Home",
-      "path": "World/Cosmology/Defending One's Home.md"
     }
   ],
   "omittedPaths": [],
