@@ -13,11 +13,11 @@ Law is the capacity to utilize cosmic essence for the manipulation and alteratio
   
 ### Type of Law  
 ---  
-[[Convenant]]:  
-Individuals commonly apply law to themselves in a practice called a covenant. The effectiveness depends on the trade-off magnitude, making it potent for one targeting their self who already has a clear understanding of their limitations.  
+__[[Convenant]]:__  
+![[Convenant#Overview]]
   
-[[Domain]]:  
-When an individual applies their unique blend of law in an open space, this area is termed a domain—an environment meticulously crafted by the user to aid them in battle. It represents the most effective form of applying law, since it affects everyone there isn't a need for a trade-off.  
+__[[Domain]]:__  
+![[Domain#Overview]]
   
-[[Contract]]:  
-Law applied to another entity is termed a contract. As spiritual entities inherently resist law, applying it to them is doubly difficult unless they willingly accept. One can overcome this resistance by overloading the amount of essence spent, though this method is inefficient.
+__[[Contract]]:__
+![[Contract#Overview]]

@@ -7,13 +7,15 @@ status: completed
 ---
 General-purpose terms that are foundational to the world but don't fall neatly into any specific category.
 
-### Terms List
+### List
 ---
-%% Begin Waypoint %%
-- [[Metasoulmorph]]
-- [[Soul Area]]
-- [[Souly]]
+__[[Metasoulmorph]]:__
+![[Metasoulmorph#Overview]]
 
-%% End Waypoint %%
+__[[Soul Area]]:__
+![[Soul Area#Overview]]
+
+__[[Souly]]:__
+![[Souly#Overview]]
 
 

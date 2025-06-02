@@ -23,7 +23,7 @@ Spiritual techniques encompass various ways an individuals may manipulate their 
 [[Infusion]] :  
 The ability to meld one's spiritual essence into another object or entity.  
   
-[[World/System/Magic/Spiritual Technique/Extraction|Extraction]]: 
+[[World/System/Magic System/Spiritual Technique/Extraction|Extraction]]: 
 The ability to extract or absorb essence's from their surrounding or an entity.  
   
 [[Enhancement]] :  

@@ -18,23 +18,28 @@ status: backlog
 Even in the mysterious vastness of the cosmos, there exists a structure that governs all things—a purpose bestowed upon every being at birth. A journey all must take, until they ultimately become one with the very framework that shapes the fabric of the existence.
 
 ### Stage
+___
 
+__[[Creation of Planetary Celestial]]:__
+![[Creation of Planetary Celestial#Overview]]
 
-[[Creation of Planetary Celestial]]
+__[[The Cycle of Mortal Souls]]:__
+![[The Cycle of Mortal Souls#Overview]]
 
+__[[Ascending One's Soul]]:__
+![[Ascending One's Soul#Overview]]
 
-[[The Cycle of Mortal Souls]]
+__[[Journey of the Ascended]]:__
+![[Journey of the Ascended#Overview]]
 
-[[Ascending One's Soul]]
+__[[Paradox of the Fallen]]:__
+![[Paradox of the Fallen#Overview]]
 
-[[Journey of the Ascended]]
+__[[Incursion Against One's Home]]:__
+![[Incursion Against One's Home#Overview]]
 
-[[Paradox of the Fallen]]
+__[[Life's Defiance]]:__
+![[Life's Defiance#Overview]]
 
-[[Incursion Against One's Home]]
-
-[[Life's Defiance]]
-
-[[Defending One's Home]]
-
-[test](obsidian://adv-uri?vault=world-building&filepath=World%2FCosmology%2FCreation%20of%20Planetary%20Celestial.md)
+__[[Defending One's Home]]:__
+![[Defending One's Home#Overview]]

@@ -10,18 +10,15 @@ status: backlog
 - [[Economy of Magic]]
 - [[Ethics of Magic]]
 - [[Ghost]]
-- [[Grimoire]]
 - [[Guideline for Spell]]
 - [[Leyline]]
 - [[Lucky]]
 - [[Magic Event]]
-- [[Magic Item]]
 - [[Magical Armor]]
 - [[Potion]]
 - [[Religion]]
 - [[Resistance]]
 - [[School of Magic]]
-- [[Spellbook]]
 - [[Wild magic]]
 
 %% End Waypoint %%

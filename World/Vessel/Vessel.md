@@ -8,6 +8,7 @@ sorting-spec: |-
 tags:
   - parent
 status: backlog
+pagination: "true"
 ---
 ### Overview  
 ___  
@@ -15,12 +16,17 @@ Vessels are containers for souls, enabling them to manifest their will upon the 
 
 ### Type
 ---
-[[Natural Vessel]]
+__[[Natural Vessel]]:__
+![[Natural Vessel#Overview]]
 
-[[Artificial Vessel]]
+__[[Artificial Vessel]]:__
+![[Artificial Vessel#Overview]]
 
-[[Ascended Vessel]]
+__[[Ascended Vessel]]:__
+![[Ascended Vessel#Overview]]
 
-[[Celestial Vessel]]
+__[[Celestial Vessel]]:__
+![[Celestial Vessel#Overview]]
 
-[[Forsaken Vessel]]
+__[[Forsaken Vessel]]:__
+![[Forsaken Vessel#Overview]]

@@ -1,3 +1,5 @@
 ---
+tags:
+  - parent
 status: backlog
 ---
