@@ -1,5 +1,6 @@
 ```dataviewjs
 const file = dv.current().file;
+const fileName = `${file.name}.md`
 const vaultName = app.vault.getName();
 const folderPath = file.folder;
 const folder = folderPath.split("/").pop();
@@ -24,7 +25,16 @@ const dateElement = {
 
 function createButton(name, type, path) {
   const btn = dv.el("button", name, { cls: `pagination-button pagination-${type}` });
-  btn.onclick = () => window.open(link.format(path));
+  btn.onclick = () => {
+	  let tFile = app.vault.getAbstractFileByPath(path);
+		
+	  const existingLeaf = app.workspace.getLeavesOfType("markdown").find(leaf => leaf.view.file === tFile);
+	  if (existingLeaf) {
+	    app.workspace.setActiveLeaf(existingLeaf);
+	  } else {
+	    app.workspace.activeLeaf.openFile(tFile);
+	  }
+  }
   return btn;
 }
 
@@ -38,9 +48,17 @@ function createDateElement() {
 
 function createPaginationElement() {
   const wrapper = dv.container.createEl("div", { cls: "pagination-module" });
-	const paginationList = page['sorting-spec'].split('\n').map(note => note.replace('...', '').trim());
-	const index = paginationList.indexOf(file.name);
+	const paginationList = page['sorting-spec']
+		.split('\n')
+		.map(note => note.replace('...', '').trim() + '.md');
+	const index = paginationList.indexOf(fileName);
 
+	if (file.path == folderNotePath){
+		const nextPath = `${folderPath}/${paginationList[index + 1]}`;
+		wrapper.appendChild(createButton("🏠 begin", "begin", nextPath));
+		return wrapper;
+	}
+	
 	if (index > 0) {
 		const prevPath = `${folderPath}/${paginationList[index - 1]}`;
 		wrapper.appendChild(createButton("◀ prev", "prev", prevPath));
@@ -59,7 +77,8 @@ function createPaginationElement() {
 function renderVirtualFooter() {
   const wrapper = dv.container.createEl("div", { cls: "virtual-footer-custom" });
 	wrapper.appendChild(createHorizontalElement());
-	if (page?.pagination == 'true' && file.path != folderNotePath) {
+
+	if (page?.pagination == 'true') {
 		wrapper.appendChild(createPaginationElement());
 		wrapper.appendChild(createHorizontalElement());
 	}
@@ -69,4 +88,3 @@ function renderVirtualFooter() {
 
 renderVirtualFooter()
 ```
-
