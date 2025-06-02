@@ -12,5 +12,5 @@
   "readableLineLength": true,
   "focusNewTab": false,
   "livePreview": false,
-  "defaultViewMode": "source"
+  "defaultViewMode": "preview"
 }

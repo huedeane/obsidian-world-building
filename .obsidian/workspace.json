@@ -4,137 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "391717b1ba2cae3c",
         "type": "tabs",
         "children": [
           {
-            "id": "ad606cd91550a21f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://chatgpt.com/",
-                "title": "File Path Transformation",
-                "mode": "webview"
-              },
-              "pinned": true,
-              "icon": "globe-2",
-              "title": "File Path Transformation"
-            }
-          },
-          {
-            "id": "583bd30f822cc1ea",
+            "id": "5897fad65cd35648",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Cosmology/Creation of Planetary Celestial.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Creation of Planetary Celestial"
+              "title": "Home"
             }
           },
           {
-            "id": "f58a597048479808",
+            "id": "a6473b616bae0176",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Term/Souly.md",
-                "mode": "source",
+                "file": "Plugin/Plugin.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Souly"
+              "title": "Plugin"
             }
           },
           {
-            "id": "74e4a35e6071cd6f",
+            "id": "7efe2a7bbe535b40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Items/Items.md",
-                "mode": "source",
+                "file": "World/Cosmology/Cosmology.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Items"
+              "title": "Cosmology"
             }
           },
           {
-            "id": "805b60df18c600d5",
+            "id": "11fd205d815b9184",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Items/Artifact/Artifact.md",
-                "mode": "source",
+                "file": "World/Cosmology/Paradox of the Fallen.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Artifact"
-            }
-          },
-          {
-            "id": "501d1a62f9dc801d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Items/Artifact/Ethereal Artifact.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ethereal Artifact"
-            }
-          },
-          {
-            "id": "b2074920eae4a78c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Items/Artifact/Transient Artifact.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Transient Artifact"
-            }
-          },
-          {
-            "id": "6fe5dc0b9c7db15b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Items/Artifact/Curse Artifact.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Curse Artifact"
-            }
-          },
-          {
-            "id": "1479c64b55499d47",
-            "type": "leaf",
-            "state": {
-              "type": "css-editor-view",
-              "state": {
-                "file": "snippet.css"
-              },
-              "icon": "file-code",
-              "title": "snippet"
+              "title": "Paradox of the Fallen"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +84,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -193,8 +123,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -210,7 +140,6 @@
       {
         "id": "7202cb079b0d5844",
         "type": "tabs",
-        "dimension": 58.57142857142858,
         "children": [
           {
             "id": "4b7a71a7e583a959",
@@ -252,13 +181,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Items/Artifact/Curse Artifact.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Curse Artifact"
+              "title": "Outline"
             }
           },
           {
@@ -273,16 +201,6 @@
               },
               "icon": "lucide-archive",
               "title": "All properties"
-            }
-          },
-          {
-            "id": "6a2643712586bcbc",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
             }
           },
           {
@@ -306,17 +224,9 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "bce7f2820294a982",
-        "type": "tabs",
-        "dimension": 41.42857142857143,
-        "children": [
+          },
           {
-            "id": "97e6721df1320834",
+            "id": "dabd58a4a692967a",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -324,111 +234,81 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "a2fd580072531c74",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 578.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "custom-sort:Toggle custom sorting": false,
-      "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "vscode-editor:Create Code File": false,
       "obsidian42-brat:BRAT": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-git:Open Git source control": false,
       "task-board:Open task board": false,
-      "omnisearch:Omnisearch": false
+      "vscode-editor:Create Code File": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "homepage:Open homepage": false,
+      "custom-sort:Toggle custom sorting": false
     }
-  },
-  "floating": {
-    "id": "d38a2dc77ab0bea3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "fb655efa2396035c",
-        "type": "window",
-        "children": [
-          {
-            "id": "cfd7760f0462a40d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "66627e42e028dd48",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://florianwoelki.github.io/obsidian-iconize/files-and-folders/icon-before-file-or-folder.html",
-                    "title": "Icon before file or folder name | Obsidian Iconize",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Icon before file or folder name | Obsidian Iconize"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 300,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1.5
-      }
-    ]
   },
   "active": "14cb23e9bf1a7569",
   "lastOpenFiles": [
-    "World/Items/Artifact/Transient Artifact.md",
-    "World/Items/Artifact/Ethereal Artifact.md",
-    "World/Items/Artifact/Curse Artifact.md",
-    "World/Items/Artifact/Artifact.md",
-    "World/Items/Artifact",
-    "World/Items/Items.md",
-    "World/Term/Souly.md",
+    "Plugin/Virtual Footer/Base.md",
+    "World/Cosmology/Cosmology.md",
+    "World/Cosmology/Paradox of the Fallen.md",
+    "World/Cosmology/Incursion Against One's Home.md",
+    "World/Cosmology/Journey of the Ascended.md",
+    "World/Cosmology/Ascending One's Soul.md",
+    "World/Cosmology/The Cycle of Mortal Souls.md",
     "World/Cosmology/Creation of Planetary Celestial.md",
-    "World/Term/Soul Area.md",
-    "World/Term/Metasoulmorph.md",
-    "World/Term/Term.md",
-    "World/System/Magic/Spell/Reflective Physical Barrier.md",
-    "World/System/Magic/Spell/Magical Shield.md",
-    "World/System/Magic/Spell/Flight.md",
-    "World/System/Magic/Spell/Foresight.md",
-    "World/System/Magic/Spell/Extraction.md",
-    "World/System/Magic/Spell/Force.md",
-    "World/System/Magic/Spell/Flesh Sacrifice.md",
-    "World/System/Magic/Spell/Echo Location.md",
-    "World/System/Magic/Spell/Heal.md",
-    "Plugin/Bases/Status.base",
-    "Plugin/Bases/Spell.base",
-    "World/System/Magic/Spell/Disrupt Magic.md",
-    "World/System/Magic/Spell/Draft/Lock On.md",
-    "World/System/Magic/Spell/Levitate.md",
-    "Plugin/Templater/Template/New Note.md",
-    "World/System/Magic/Spell/Mage's Domain.md",
-    "World/System/Magic/Spell/Parry.md",
-    "World/System/Magic/Spell/Phase Shift.md",
-    "World/Term",
+    "Plugin/Plugin.md",
+    "Plugin/Templater/Template/Spell Template.md",
+    "World/Cosmology/Life's Defiance.md",
+    "World/Cosmology/Defending One's Home.md",
+    "Plugin/Util/Data/spell-attribute.json",
     "Plugin/Util/Data/plugin-data.json",
-    "Plugin/Virtual Footer/BaseFooter.js",
-    "Plugin/Util/Script/getSpellAttribute.js",
-    "Plugin/Util/Script/removeTag.js",
-    "Plugin/Util/Script/setContent.js",
-    "Plugin/Virtual Footer",
+    "Plugin/Templater/Command/Update Spell Frontmatter.md",
+    "Plugin/Templater/Command/Create Spell.md",
+    "Plugin/Templater/Template/New Note.md",
+    "Home.md",
+    "Note.md",
+    "Plugin/Banner/4572611-fantasy-art-field-clouds.jpg",
+    "Plugin/Bases/Spell.base",
+    "World/World.md",
+    "World/Items/Items.md",
+    "World/Entities/Entities.md",
+    "World/Essence/Essence.md",
+    "World/Essence/Cosmic Essence.md",
+    "World/Essence/Magical Essence.md",
+    "World/Essence/Spiritual Essence.md",
+    "World/System/Law System/Law System.md",
+    "Spell",
+    "World/Items/Core/Untitled",
+    "World/Items/Core",
+    "World/Items/Conduits",
+    "World/Items/Artifact",
+    "Plugin/Bases/Status.base",
+    "World/Term",
     "Plugin/Banner/homepage.png",
     "Plugin/Banner/banner.jpg",
-    "Plugin/Banner/4572611-fantasy-art-field-clouds.jpg",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "test.canvas",

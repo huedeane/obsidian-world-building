@@ -7,9 +7,10 @@
       "contentSource": "file",
       "footerText": "\n```dataviewjs\ndv.view(\"Plugin/Virtual Footer/BaseFooter\", {dv})\n```",
       "renderLocation": "footer",
-      "path": "",
       "recursive": true,
+      "path": "",
       "footerFilePath": "Plugin/Virtual Footer/Base.md"
     }
-  ]
+  ],
+  "refreshOnFileOpen": false
 }

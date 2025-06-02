@@ -10,7 +10,7 @@
   display: flex;
   flex-direction: column;
   gap: 10px;
-  margin-top: 1rem !important
+  margin: 1rem 0 !important
 }
 
 .virtual-footer-custom .horizontal-module {
@@ -58,6 +58,11 @@
   grid-column: 2;
 }
 
+.virtual-footer-custom .pagination-module .pagination-begin {
+  grid-column: 2;
+}
+
+
 .virtual-footer-custom .pagination-module .pagination-next {
   grid-column: 3;
 }
@@ -70,6 +75,37 @@
   padding-bottom: 0px !important;
 }
 
-.markdown-reading-view .markdown-preview-view .markdown-preview-section .mod-footer{
+.markdown-reading-view .markdown-preview-view .markdown-preview-section .mod-footer {
   margin-top: auto;
+}
+
+.markdown-embed {
+  padding: 5px 0px 0px 0px;
+  border: none;
+  border-top: var(--embed-border-start);
+}
+
+.markdown-embed .markdown-embed-title {
+  display: none;
+}
+
+.markdown-embed .markdown-embed-link {
+  top: -27px;
+  right: 0px;
+}
+
+.markdown-embed .markdown-embed-content .markdown-preview-view {
+  scrollbar-gutter: unset;
+}
+
+.markdown-embed .markdown-embed-content .markdown-preview-view .el-h3 {
+  display: none;
+}
+
+.markdown-embed .markdown-embed-content .markdown-preview-view .el-hr {
+  display: none;
+}
+
+.markdown-embed .markdown-embed-content .markdown-preview-view .el-p p {
+  margin: unset;
 }
