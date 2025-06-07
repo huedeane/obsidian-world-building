@@ -1,0 +1,1 @@
+../../../../shared-plugin/Templater/Template/Create Embed Overview.md
