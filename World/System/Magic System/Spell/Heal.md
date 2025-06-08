@@ -1,8 +1,8 @@
 ---
 tags:
   - spell
-status: revision
-cost: Low
+status: completed
+spell-cost: Low
 target: Single
 range: Short
 cast time: Instant

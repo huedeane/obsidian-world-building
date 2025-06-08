@@ -1,7 +1,7 @@
 <%*
 //Get current file
 const spellFiles = tp.app.vault.getMarkdownFiles().filter(f => {
-	return f.path.startsWith('Spell/') && !f.path.contains('/Draft') && !f.path.contains('Spell/Spell.md')
+	return f.path.contains('Spell/') && !f.path.contains('/Draft') && !f.path.contains('Spell/Spell.md')
 })
 
 //Get json file

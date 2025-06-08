@@ -1,8 +1,8 @@
 ---
 tags:
   - spell
-status: revisiont
-cost: Variable
+status: completed
+spell-cost: Variable
 target: Single
 range: Short
 cast time: Instant

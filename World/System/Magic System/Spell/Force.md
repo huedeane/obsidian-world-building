@@ -1,8 +1,8 @@
 ---
 tags:
   - spell
-status: revision
-cost: Low - High (Depend on force)
+status: completed
+spell-cost: Low - High (Depend on force)
 target: Area of Effect
 range: Short - Medium
 cast time: Instant

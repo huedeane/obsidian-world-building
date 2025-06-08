@@ -1,8 +1,8 @@
 ---
 tags:
   - spell
-status: revision
-cost: High
+status: completed
+spell-cost: High
 target: Self / Area of Effect
 range: Short
 cast time: Instant

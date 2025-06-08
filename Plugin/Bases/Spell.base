@@ -5,8 +5,7 @@ views:
     name: Spell
     filters:
       and:
-        - file.folder == "World/System/Magic/Spell"
-        - property.tags == "spell"
+        - file.folder == "World/System/Magic System/Spell"
     order:
       - file.name
       - cast time

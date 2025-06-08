@@ -1,7 +1,8 @@
 ---
 tags:
   - spell
-status: revision
+status: completed
+spell-cost: Variable
 target: Self
 range: N/A
 cast time: Instant
