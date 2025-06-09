@@ -1,7 +1,8 @@
 ---
 tags:
   - spell
-status: revision
+status: completed
+spell-cost: Variable
 target: Self, Single, Area of Effect
 range: Short
 cast time: Instant

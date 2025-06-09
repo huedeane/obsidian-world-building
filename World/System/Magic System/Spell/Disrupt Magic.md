@@ -1,7 +1,7 @@
 ---
 tags:
   - spell
-status: revision
+status: completed
 spell-cost: Medium
 target: Manual / Single / Multi
 range: Short

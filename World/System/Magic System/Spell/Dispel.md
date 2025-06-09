@@ -1,7 +1,7 @@
 ---
 tags:
   - spell
-status: revision
+status: completed
 spell-cost: Low - High
 target: Single
 range: Short

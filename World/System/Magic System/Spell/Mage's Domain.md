@@ -1,7 +1,7 @@
 ---
 tags:
   - spell
-status: revision
+status: completed
 spell-cost: Low
 target: Self, Area of Effect
 range: Short - Medium
