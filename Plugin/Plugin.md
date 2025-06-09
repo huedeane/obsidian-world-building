@@ -1,3 +1,4 @@
+
 ### Overview
 ---
 This folder contains configuration files and other resources for all my Obsidian plugins. Below is a list of all the plugins I have installed, organized by category.

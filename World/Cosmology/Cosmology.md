@@ -38,8 +38,9 @@ __[[Paradox of the Fallen]]:__
 __[[Incursion Against One's Home]]:__
 ![[Incursion Against One's Home#Overview]]
 
+__[[Defending One's Home]]:__
+![[Defending One's Home#Overview]]
+
 __[[Life's Defiance]]:__
 ![[Life's Defiance#Overview]]
 
-__[[Defending One's Home]]:__
-![[Defending One's Home#Overview]]

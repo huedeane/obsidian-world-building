@@ -3,7 +3,7 @@
 const noteName = await tp.system.prompt('Spell Name');
 
 // Folder TFolder
-const folderPath = 'Spell/Draft'
+const folderPath = 'World/System/Magic System/Spell/Draft'
 const folder = app.vault.getAbstractFileByPath(folderPath)
 
 // Template TFile
