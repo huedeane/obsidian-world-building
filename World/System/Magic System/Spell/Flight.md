@@ -1,7 +1,8 @@
 ---
 tags:
   - spell
-status: completed
+status:
+  - revision
 spell-cost: Medium
 target: Self
 range: N/A

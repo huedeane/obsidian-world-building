@@ -27,7 +27,6 @@ for (const file of spellFiles) {
 	  
 	  //Set default tag
 		frontmatter['tags'] = ['spell']
-		frontmatter['status'] = 'completed'
 		
 	  //Rebuild spell properties
 		jsonPluginData.forEach((data) => {

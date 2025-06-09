@@ -8,17 +8,22 @@ views:
         - file.folder == "World/System/Magic System/Spell"
     order:
       - file.name
+      - file.ctime
       - cast time
       - cast type
       - complexity
       - cost
-      - file.ctime
+      - status
     sort:
+      - column: file.name
+        direction: ASC
+      - column: note.status
+        direction: ASC
       - column: file.ctime
         direction: DESC
       - column: property.complexity
         direction: DESC
     columnSize:
-      property.cast time: 195
+      note.status: 216
   - type: table
     name: View

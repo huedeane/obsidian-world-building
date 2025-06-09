@@ -1,7 +1,8 @@
 ---
 tags:
   - spell
-status: completed
+status:
+  - revision
 spell-cost: Low - High (Depend on force)
 target: Area of Effect
 range: Short - Medium
