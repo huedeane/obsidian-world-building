@@ -14,16 +14,19 @@ views:
       - complexity
       - cost
       - status
+      - spell-cost
+      - depth
     sort:
-      - column: file.name
-        direction: ASC
       - column: note.status
+        direction: DESC
+      - column: file.name
         direction: ASC
       - column: file.ctime
         direction: DESC
       - column: property.complexity
         direction: DESC
     columnSize:
+      file.name: 369
       note.status: 216
   - type: table
     name: View
