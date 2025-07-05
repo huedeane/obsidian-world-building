@@ -27,7 +27,7 @@
 			  }
 			  
 			  //Set default tag
-				frontmatter['tags'] = ['spell']
+				//frontmatter['tags'] = ['spell']
 				
 			  //Rebuild spell properties
 				jsonPluginData.forEach((data) => {
@@ -37,5 +37,5 @@
 			});
 		};
 	}
-	tp.user.executeCommand(UpdateSpellFrontmatter)
+	tp.user.executeCommand("Update Spell Front Matter", () => UpdateSpellFrontmatter())
 %>

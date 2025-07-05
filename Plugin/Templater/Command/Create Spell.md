@@ -19,5 +19,8 @@
 		const file = tp.file.find_tfile(newFilePath);
 		*/
 	}
-	tp.user.executeCommand(CreateSpell)
+	tp.user.executeCommand("Create Spell", () => CreateSpell())
 %>
+
+
+
