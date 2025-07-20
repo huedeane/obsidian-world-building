@@ -8,8 +8,10 @@ A system of power defines the rules and mechanisms by which individuals in a par
 ### Type
 ___
 
-__[[Law System]]:__
-![[Law System#Overview]]
+> [!Embed]
+> [[Law System]]
+> ![[Law System#Overview]]
 
-__[[Magic System]]:__
-![[Magic System#Overview]]
+> [!Embed]
+> [[Magic System]]
+> ![[Magic System#Overview]]

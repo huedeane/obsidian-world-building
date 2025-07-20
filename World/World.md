@@ -16,20 +16,27 @@ sorting-spec: |-
 
 ### Type
 ---
-__[[Essence]]:__
-![[Essence#Overview]]
+> [!Embed]
+> [[Essence]]
+> ![[Essence#Overview]]
 
-__[[Cosmology]]:__
-![[Cosmology#Overview]]
+> [!Embed]
+> [[Cosmology]]
+> ![[Cosmology#Overview]]
 
-__[[Vessel]]:__
-![[Vessel#Overview]]
+> [!Embed]
+> [[Vessel]]
+> ![[Vessel#Overview]]
 
-__[[Entities]]:__
-![[Entities#Overview]]
+> [!Embed]
+> [[Entities]]
+> ![[Entities#Overview]]
 
-__[[System]]:__
-![[System#Overview]]
+> [!Embed]
+> [[System]]
+> ![[System#Overview]]
 
-__[[Items]]:__
-![[Items#Overview]]
+> [!Embed]
+> [[Items]]
+> ![[Items#Overview]]
+

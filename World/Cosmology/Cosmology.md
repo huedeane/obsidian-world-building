@@ -20,27 +20,36 @@ Even in the mysterious vastness of the cosmos, there exists a structure that gov
 ### Stage
 ___
 
-__[[Creation of Planetary Celestial]]:__
-![[Creation of Planetary Celestial#Overview]]
+> [!Embed]
+> [[Creation of Planetary Celestial]]
+> ![[Creation of Planetary Celestial#Overview]]
 
-__[[The Cycle of Mortal Souls]]:__
-![[The Cycle of Mortal Souls#Overview]]
+> [!Embed]
+> [[The Cycle of Mortal Souls]]
+> ![[The Cycle of Mortal Souls#Overview]]
 
-__[[Ascending One's Soul]]:__
-![[Ascending One's Soul#Overview]]
+> [!Embed]
+> [[Ascending One's Soul]]
+> ![[Ascending One's Soul#Overview]]
 
-__[[Journey of the Ascended]]:__
-![[Journey of the Ascended#Overview]]
+> [!Embed]
+> [[Journey of the Ascended]]
+> ![[Journey of the Ascended#Overview]]
 
-__[[Paradox of the Fallen]]:__
-![[Paradox of the Fallen#Overview]]
+> [!Embed]
+> [[Paradox of the Fallen]]
+> ![[Paradox of the Fallen#Overview]]
 
-__[[Incursion Against One's Home]]:__
-![[Incursion Against One's Home#Overview]]
+> [!Embed]
+> [[Incursion Against One's Home]]
+> ![[Incursion Against One's Home#Overview]]
 
-__[[Defending One's Home]]:__
-![[Defending One's Home#Overview]]
+> [!Embed]
+> [[Defending One's Home]]
+> ![[Defending One's Home#Overview]]
 
-__[[Life's Defiance]]:__
-![[Life's Defiance#Overview]]
+> [!Embed]
+> [[Life's Defiance]]
+> ![[Life's Defiance#Overview]]
+
 

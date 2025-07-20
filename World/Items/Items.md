@@ -10,11 +10,14 @@ Enchanted objects that store, channel, or enhance magical energy. They can grant
 ### Type
 ---
 
-__[[Conduits]]__:
-![[Conduits#Overview]]
+> [!Embed]
+> [[Conduits]]
+> ![[Conduits#Overview]]
 
-__[[Artifact]]__:
-![[Artifact#Overview]]
+> [!Embed]
+> [[Artifact]]
+> ![[Artifact#Overview]]
 
-__[[Core]]__:
-![[Core#Overview]]
+> [!Embed]
+> [[Core]]
+> ![[Core#Overview]]

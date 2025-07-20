@@ -9,11 +9,14 @@ Conduits serve as intermediaries, adept at extracting magical essence from aroun
 
 ### Type
 ---
-__[[Scroll]]__:
-![[Scroll#Overview]]
+> [!Embed]
+> [[Scroll]]
+> ![[Scroll#Overview]]
 
-__[[Spellbook]]__:
-![[Spellbook#Overview]]
+> [!Embed]
+> [[Spellbook]]
+> ![[Spellbook#Overview]]
 
-__[[Grimoire]]__:
-![[Grimoire#Overview]]
+> [!Embed]
+> [[Grimoire]]
+> ![[Grimoire#Overview]]

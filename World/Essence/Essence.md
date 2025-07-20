@@ -13,11 +13,14 @@ Essence is the fundamental energy that constitute all of reality and can be sepe
 
 ### Type
 ---  
-[[Cosmic Essence]]:  
-![[Cosmic Essence#Overview]]
-  
-[[Magical Essence]]:  
-![[Magical Essence#Overview]]
-  
-[[Spiritual Essence]] : 
-![[Spiritual Essence#Overview]]
+> [!Embed]
+> [[Cosmic Essence]]
+> ![[Cosmic Essence#Overview]]
+
+> [!Embed]
+> [[Magical Essence]]
+> ![[Magical Essence#Overview]]
+
+> [!Embed]
+> [[Spiritual Essence]]
+> ![[Spiritual Essence#Overview]]

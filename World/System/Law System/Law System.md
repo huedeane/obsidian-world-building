@@ -13,11 +13,14 @@ Law is the capacity to utilize cosmic essence for the manipulation and alteratio
   
 ### Type of Law  
 ---  
-__[[Convenant]]:__  
-![[Convenant#Overview]]
-  
-__[[Domain]]:__  
-![[Domain#Overview]]
-  
-__[[Contract]]:__
-![[Contract#Overview]]
+> [!Embed]
+> [[Convenant]]
+> ![[Convenant#Overview]]
+
+> [!Embed]
+> [[Domain]]
+> ![[Domain#Overview]]
+
+> [!Embed]
+> [[Contract]]
+> ![[Contract#Overview]]

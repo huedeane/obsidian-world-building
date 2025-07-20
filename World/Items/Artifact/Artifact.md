@@ -14,11 +14,14 @@ N/A
 ### Type
 ---
   
-__[[Cursed Artifact]]:__ 
-![[Cursed Artifact#Overview]]
-  
-__[[Transient Artifact]]:__ 
-![[Transient Artifact#Overview]]
+> [!Embed]
+> [[Cursed Artifact]]
+> ![[Cursed Artifact#Overview]]
 
-__[[Ethereal Artifact]]:__
-![[Ethereal Artifact#Overview]]
+> [!Embed]
+> [[Transient Artifact]]
+> ![[Transient Artifact#Overview]]
+
+> [!Embed]
+> [[Ethereal Artifact]]
+> ![[Ethereal Artifact#Overview]]

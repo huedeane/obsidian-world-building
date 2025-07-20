@@ -9,13 +9,14 @@ General-purpose terms that are foundational to the world but don't fall neatly i
 
 ### List
 ---
-__[[Metasoulmorph]]:__
-![[Metasoulmorph#Overview]]
+> [!Embed]
+> [[Metasoulmorph]]
+> ![[Metasoulmorph#Overview]]
 
-__[[Soul Area]]:__
-![[Soul Area#Overview]]
+> [!Embed]
+> [[Soul Area]]
+> ![[Soul Area#Overview]]
 
-__[[Souly]]:__
-![[Souly#Overview]]
-
-
+> [!Embed]
+> [[Souly]]
+> ![[Souly#Overview]]
